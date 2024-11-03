@@ -1,6 +1,6 @@
 ---
-description: This can be easily done by syncing role permissions
 icon: lock
+description: This can be easily done by syncing role permissions
 ---
 
 # How to block roles access to all channels?
@@ -18,9 +18,9 @@ All permissions you set in the category for roles will be applied and synced to 
 {% hint style="warning" %}
 **Permissions for @everyone**
 
-You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@everyone`, because these permissions are managed when using [/voice privacy](../../chat-commands/voice/privacy.md)!
+You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@everyone`, because these permissions are managed when using [/voice privacy](../../commands/voice/privacy.md)!
 
-If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../how-to-integrate-my-verification-system.md)
+If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../member-roles.md)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
