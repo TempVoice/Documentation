@@ -12,7 +12,7 @@ icon: robot
 
 ### TempVoice Premium
 
-First of all, you need an active premium subscription with the `Your Own Bot` option.
+First of all, you need an active premium subscription with the `Your Own Bot` option to use this feature.
 
 <figure><img src="../.gitbook/assets/Premium Plan.png" alt="" width="354"><figcaption></figcaption></figure>
 
