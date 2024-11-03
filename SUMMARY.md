@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Getting Started
 
-* [Quickstart](README.md)
+* [Quickstart](getting-started/setup.md)
 
 ## Configuration
 

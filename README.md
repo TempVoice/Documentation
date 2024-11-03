@@ -1,26 +1,15 @@
 ---
 description: >-
-  With just a few clicks you are ready using temporary channels in your Discord
-  server.
-icon: bullseye-arrow
+  Implementing temporary voice channels on your Discord server is easy. Let your
+  users customize and moderate their own voice channels and enjoy a cleaner
+  server with no unused channels.
+icon: hand-wave
 ---
 
-# Quickstart
+# Welcome
 
-## 1. Invite TempVoice
+## Thanks for you interest into TempVoice
 
-Visit [https://tempvoice.xyz/invite](https://tempvoice.xyz/invite) to invite <img src=".gitbook/assets/image (25).png" alt="" data-size="line"> to your Discord server
+Here we will explain everything you need to know to get started with TempVoice. Feel free to join our discord server for further questions and to stay up to date with announcements.
 
-## 2. Initial Setup
-
-Run the command `/setup` and click on <img src=".gitbook/assets/Setup TempVoice.png" alt="" data-size="line">
-
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-## ➕ Creator Channel
-
-A voice channel that creates a temporary channel when you join it. You can set up multiple Creators by repeating the steps above. Each Creator has its own configuration for creating temporary channels.
-
-## ✨ Interface Message
-
-A text channel in which the bot sends an interface which is an alternative to the `/voice` commands and used to customize a temporary channel.
+[https://discord.gg/tempvoice](https://discord.gg/tempvoice)
