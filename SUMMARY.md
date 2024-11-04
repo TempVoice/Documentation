@@ -9,7 +9,30 @@
 ## Configuration
 
 * [Interface Settings](configuration/interface-settings.md)
-* [Creator Settings](configuration/creator-settings.md)
+* [Creator Settings](configuration/creator-settings/README.md)
+  * [Overview](configuration/creator-settings/overview/README.md)
+    * [Temporary Channel Name](configuration/creator-settings/overview/temporary-channel-name.md)
+    * [Temporary Channel User Limit](configuration/creator-settings/overview/temporary-channel-user-limit.md)
+    * [Temporary Channel Category](configuration/creator-settings/overview/temporary-channel-category.md)
+    * [Temporary Channel Bitrate](configuration/creator-settings/overview/temporary-channel-bitrate.md)
+  * [Features](configuration/creator-settings/features/README.md)
+    * [Available Temporary Channels Commands](configuration/creator-settings/features/available-temporary-channels-commands.md)
+    * [Restore Owner Settings](configuration/creator-settings/features/restore-owner-settings.md)
+  * [Permissions](configuration/creator-settings/permissions/README.md)
+    * [Member Role](configuration/creator-settings/permissions/member-role.md)
+    * [In-Voice Role](configuration/creator-settings/permissions/in-voice-role.md)
+    * [Synchronize Permissions](configuration/creator-settings/permissions/synchronize-permissions.md)
+    * [Additional Discord Permissions for Owners](configuration/creator-settings/permissions/additional-discord-permissions-for-owners.md)
+  * [Customization Tab](configuration/creator-settings/customization-tab/README.md)
+    * [Default Name for Placeholders](configuration/creator-settings/customization-tab/default-name-for-placeholders.md)
+    * [Waiting Room Name](configuration/creator-settings/customization-tab/waiting-room-name.md)
+    * [Send Welcome Message](configuration/creator-settings/customization-tab/send-welcome-message.md)
+  * [Miscellaneous](configuration/creator-settings/miscellaneous/README.md)
+    * [Temporary Channel Privacy](configuration/creator-settings/miscellaneous/temporary-channel-privacy.md)
+    * [Temporary Channel Position](configuration/creator-settings/miscellaneous/temporary-channel-position.md)
+    * [Total Limit of Temporary Channels](configuration/creator-settings/miscellaneous/total-limit-of-temporary-channels.md)
+    * [Temporary Channel Fillup](configuration/creator-settings/miscellaneous/temporary-channel-fillup.md)
+    * [Actions Log](configuration/creator-settings/miscellaneous/actions-log.md)
 
 ## Chat Commands <a href="#commands" id="commands"></a>
 
