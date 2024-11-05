@@ -9,7 +9,9 @@ description: >-
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Users can overwrite the default user limit of their temporary channel by using the [`/voice limit`](../../../commands/voice/limit.md) command or an [`interface`](../../../commands/interface.md), unless changing the channel limit or the restore feature is disabled.
+Users can adjust this setting for their temporary channel by using the [`/voice limit`](../../../commands/voice/limit.md) command or [`interface`](../../../commands/interface.md).
+
+To enforce default settings, disable the limit [command](../features/restore-owner-settings.md) or the [restore](../features/restore-owner-settings.md) setting.
 {% endhint %}
 
 ## User Limit Range

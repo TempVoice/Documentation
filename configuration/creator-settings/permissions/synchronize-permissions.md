@@ -1,7 +1,11 @@
+---
+description: Sync permissions to temporary channels to customize them as needed.
+---
+
 # Synchronize Permissions
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-### How to use this? <a href="#how-to-use-this" id="how-to-use-this"></a>
-
-Synchronize Permissions is well explained in [this faq guide](https://help.tempvoice.xyz/faq/sync-permissions)!
+{% hint style="success" %}
+**How does it work?** Take a look at [How to sync permissions](../../../faq/sync-permissions/).!
+{% endhint %}

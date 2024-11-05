@@ -1,5 +1,13 @@
+---
+description: >-
+  Set the position for newly created temporary channel. This can be either below
+  or above the creator channel.
+---
+
 # Temporary Channel Position
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Set the position of temporary channels, which can be created either at the bottom/top of a category or directly below the ➕ Creator Channel.
+{% hint style="warning" %}
+If temporary channels aren’t created in the expected position, try moving the creator channel out of the category and then back into it. This action refreshes Discord's and TempVoice's cache.
+{% endhint %}

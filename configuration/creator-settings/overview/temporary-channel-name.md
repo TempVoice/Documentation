@@ -1,6 +1,6 @@
 ---
 description: >-
-  Set a default name for temporary channels when a user creates a channel for
+  Define a default name for temporary channels when a user creates a channel for
   the first time.
 ---
 
@@ -13,7 +13,9 @@ description: >-
 The default name can contain placeholders that can display information dynamically.
 
 {% hint style="info" %}
-Users can overwrite the default name of their temporary channel by using the [`/voice name`](../../../commands/voice/name.md) command or an [`interface`](../../../commands/interface.md), unless changing the channel name or the restore feature is disabled.
+Users can adjust this setting for their temporary channel by using the [`/voice name`](../../../commands/voice/name.md) command or [`interface`](../../../commands/interface.md).
+
+To enforce default settings, disable the name [command](../features/restore-owner-settings.md) or the [restore](../features/restore-owner-settings.md) setting.
 {% endhint %}
 
 ## Censor Channel Names

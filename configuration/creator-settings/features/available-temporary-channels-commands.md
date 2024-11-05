@@ -1,3 +1,9 @@
+---
+description: >-
+  Select which commands should be available for users to manage their temporary
+  channel.
+---
+
 # Available Temporary Channels Commands
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
