@@ -11,7 +11,7 @@ description: >-
 {% hint style="info" %}
 Users can adjust this setting for their temporary channel by using the [`/voice limit`](../../../commands/voice/limit.md) command or [`interface`](../../../commands/interface.md).
 
-To enforce default settings, disable the limit [command](../features/restore-owner-settings.md) or the [restore](../features/restore-owner-settings.md) setting.
+To enforce default settings, disable the limit [command](../features/restore.md) or the [restore](../features/restore.md) setting.
 {% endhint %}
 
 ## User Limit Range

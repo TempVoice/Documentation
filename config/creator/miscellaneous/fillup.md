@@ -10,5 +10,5 @@ description: >-
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-This setting requires a [user limit](../overview/temporary-channel-user-limit.md) between 1 and 99.
+This setting requires a [user limit](../overview/limit.md) between 1 and 99.
 {% endhint %}

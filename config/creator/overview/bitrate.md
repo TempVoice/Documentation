@@ -9,5 +9,5 @@ description: Set a bitrate for the temporary channel whenever a user creates a n
 {% hint style="info" %}
 Users can adjust this setting for their temporary channel by using the [`/voice bitrate`](../../../commands/voice/bitrate.md) command or [`interface`](../../../commands/interface.md).
 
-To enforce default settings, disable the bitrate [command](../features/restore-owner-settings.md) or the [restore](../features/restore-owner-settings.md) setting.
+To enforce default settings, disable the bitrate [command](../features/restore.md) or the [restore](../features/restore.md) setting.
 {% endhint %}

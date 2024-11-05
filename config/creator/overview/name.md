@@ -15,7 +15,7 @@ The default name can contain placeholders that can display information dynamical
 {% hint style="info" %}
 Users can adjust this setting for their temporary channel by using the [`/voice name`](../../../commands/voice/name.md) command or [`interface`](../../../commands/interface.md).
 
-To enforce default settings, disable the name [command](../features/restore-owner-settings.md) or the [restore](../features/restore-owner-settings.md) setting.
+To enforce default settings, disable the name [command](../features/restore.md) or the [restore](../features/restore.md) setting.
 {% endhint %}
 
 ## Censor Channel Names
