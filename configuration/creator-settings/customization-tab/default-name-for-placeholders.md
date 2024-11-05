@@ -1,2 +1,0 @@
-# Default Name for Placeholders
-

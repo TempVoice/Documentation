@@ -7,4 +7,4 @@ description: >-
 
 # claim
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
