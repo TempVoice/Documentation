@@ -8,6 +8,6 @@ description: >-
 
 # /find
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Result</p></figcaption></figure>

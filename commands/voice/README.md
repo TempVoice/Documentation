@@ -1,9 +1,9 @@
 ---
-description: >-
-  After you have created a temporary channel, you are the owner of this channel
-  and can change the properties of your channel and manage users with this
-  command.
 icon: terminal
+description: >-
+  After you create a temporary channel, you are the owner of that channel and
+  can use this command to change the properties of your channel and manage
+  users.
 ---
 
 # /voice
