@@ -8,7 +8,6 @@
 
 ## Configuration <a href="#config" id="config"></a>
 
-* [Interface Settings](config/interface.md)
 * [Creator Settings](config/creator/README.md)
   * [Overview](config/creator/overview/README.md)
     * [Temporary Channel Name](config/creator/overview/name.md)
@@ -32,7 +31,27 @@
     * [Total Limit of Temporary Channels](config/creator/miscellaneous/total-limit.md)
     * [Temporary Channel Fillup](config/creator/miscellaneous/fillup.md)
     * [Actions Log](config/creator/miscellaneous/actions-log.md)
-  * [Placeholder](config/creator/placeholder.md)
+* [Placeholders](config/placeholders/README.md)
+  * [{CUSTOM}](config/placeholders/custom.md)
+  * [{PRIVACY}](config/placeholders/privacy.md)
+  * [{RANDOM}](config/placeholders/random.md)
+  * [{OWNER\_USERNAME}](config/placeholders/owner\_username.md)
+  * [{OWNER\_NICKNAME}](config/placeholders/owner\_nickname.md)
+  * [{OWNER\_MENTION}](config/placeholders/owner\_mention.md)
+  * [{OWNER\_CREATED}](config/placeholders/owner\_created.md)
+  * [{OWNER\_JOINED}](config/placeholders/owner\_joined.md)
+  * [{NUMBER}](config/placeholders/number.md)
+  * [{NUMBER\_ROMAN}](config/placeholders/number\_roman.md)
+  * [{NUMBER\_ALPHA}](config/placeholders/number\_alpha.md)
+  * [{NUMBER\_EXPONENT}](config/placeholders/number\_exponent.md)
+  * [{ROLE\_HIGHEST}](config/placeholders/role\_highest.md)
+  * [{ROLE\_HOIST}](config/placeholders/role\_hoist.md)
+  * [{GUILD\_ID}](config/placeholders/guild\_id.md)
+  * [{CHANNEL\_ID}](config/placeholders/channel\_id.md)
+  * [{ACTIVITY\_NAME}](config/placeholders/activity\_name.md)
+  * [{ACTIVITY\_DETAILS}](config/placeholders/activity\_details.md)
+  * [{ACTIVITY\_STATE}](config/placeholders/activity\_state.md)
+  * [{ACTIVITY\_EMOJI}](config/placeholders/activity\_emoji.md)
 
 ## Commands
 

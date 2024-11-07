@@ -6,6 +6,8 @@ description: >-
 
 # Waiting Room Name
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Customization` tab -> `Waiting Room Name`
+
 <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}

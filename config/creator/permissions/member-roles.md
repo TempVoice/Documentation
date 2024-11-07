@@ -6,6 +6,8 @@ description: >-
 
 # Member Roles
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Permissions` tab -> `Member Roles`
+
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}

@@ -9,13 +9,17 @@ description: >-
 
 ## Open the interface preview
 
-[Dashboard](https://tempvoice.xyz/dashboard) -> Select Your Server
+1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select Your Server
 
 <div align="center">
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+***
+
+2. Play around with the preview, like clicking on the text to modify it or clicking on the buttons to disable them, which is available to everyone.
 
 ## Change avatar and name
 
@@ -27,11 +31,15 @@ If you want to change the avatar and name of the bot itself, you should take a l
 
 1. Click on the name and enter a new one like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
 
 2. Click on the avatar and enter an image url. Its important that this url has to store the image permanent. Uploading an image on Discord and using that image link won't be permanent.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
 
 ## This is how it could look like
 

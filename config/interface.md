@@ -1,6 +1,0 @@
----
-icon: sparkles
----
-
-# Interface Settings
-

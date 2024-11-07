@@ -4,6 +4,8 @@ description: Set a bitrate for the temporary channel whenever a user creates a n
 
 # Temporary Channel Bitrate
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Overview` tab -> `Temporary Channel Bitrate`
+
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}

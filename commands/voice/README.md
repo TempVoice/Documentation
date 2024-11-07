@@ -8,3 +8,8 @@ description: >-
 
 # /voice
 
+{% hint style="warning" %}
+A user needs **Use Application Command** permission to use this command.
+
+![](<../../.gitbook/assets/image (76).png>)
+{% endhint %}

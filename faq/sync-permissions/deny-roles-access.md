@@ -7,13 +7,15 @@ description: This can be easily done by syncing role permissions
 
 ## Enable permission syncing
 
-[Dashboard](https://tempvoice.xyz/dashboard) -> Select a Creator -> Permissions Tab -> Synchronize Permissions
+1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select a Creator -> Permissions Tab -> Synchronize Permissions
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## Set permission in category
 
-All permissions you set in the category for roles will be applied and synced to temporary channels. Deny `View Channels` or `Connect` permission to avoid that role to join temporary channels.
+2. All permissions you set in the category for roles will be applied and synced to temporary channels. Deny `View Channels` or `Connect` permission to avoid that role to join temporary channels.
 
 {% hint style="warning" %}
 **Permissions for @everyone**

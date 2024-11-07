@@ -1,8 +1,8 @@
 ---
+icon: trash-can
 description: >-
   Temporary channels can only be deleted when TempVoice is online and has all
   required permissions.
-icon: trash-can
 ---
 
 # Empty temporary channels
@@ -12,7 +12,8 @@ icon: trash-can
 1. Check if TempVoice is online: [https://tempvoice.xyz/status](https://tempvoice.xyz/status)
 2. Try to join and leave this channel again
 3. Only if 3. does not work try to manually delete the channel
-4.  Only if 4. does not work you have to crate a Discord support ticket with this text:\
+4.  Only if 4. does not work you have to create a Discord support ticket with this text:\
+    \
     [https://support.discord.com/hc/en-us/requests/new?ticket\_form\_id=360000029212](https://support.discord.com/hc/en-us/requests/new?ticket\_form\_id=360000029212)
 
     ```
@@ -27,6 +28,7 @@ icon: trash-can
     ```
 5. If you see the channels on mobile but not on desktop do this:
    * Settings -> Advanced -> Developer Mode\
+     \
      ![](<../.gitbook/assets/image (1).avif>)
    * Settings -> Scroll Down -> Clear Caches\
      ![](<../.gitbook/assets/image (2).avif>)

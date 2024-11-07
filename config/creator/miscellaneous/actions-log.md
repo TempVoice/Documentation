@@ -4,6 +4,8 @@ icon: crown
 
 # Actions Log
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Miscellaneous` tab -> `Action Log`
+
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 How to get a Discord Webhook URL?

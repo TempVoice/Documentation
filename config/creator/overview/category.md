@@ -6,7 +6,11 @@ description: >-
 
 # Temporary Channel Category
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Overview` tab -> `Temporary Channel Category`
+
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## Fallback Categories
 

@@ -11,3 +11,9 @@ description: >-
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Result</p></figcaption></figure>
+
+{% hint style="warning" %}
+A user needs **Use Application Command** permission to use this command.
+
+![](<../.gitbook/assets/image (75).png>)
+{% endhint %}

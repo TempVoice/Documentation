@@ -6,6 +6,8 @@ description: >-
 
 # Temporary Channel Position
 
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Select the **correct** creator channel -> Click on the `Miscellaneous` tab -> `Temporary Channel Position`
+
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
