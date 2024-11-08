@@ -8,31 +8,42 @@ icon: crown
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-How to get a Discord Webhook URL?
+***
 
-Click on the edit icon of a text channel
+## How to get a Discord Webhook URL?
+
+1. Click on the edit icon of a text channel.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Go to "Integrations"
+***
+
+2. Go to `Integrations`.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-Click on "Webhooks"
+***
+
+3. Click on `Webhooks`.
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Click on "New Webhook"
+***
+
+4. Click on `New Webhook`.
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Click on the new webhook which popped up below the "New Webhook" button and click on "Copy Webhook URL"
+***
+
+5. Click on the new webhook which popped up below `New Webhook` button and click on\
+   `Copy Webhook URL`
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-Now paste this URL to the TempVoice Dashboard.
-
-Treat this url like a password and do not share it with anyone.
+{% hint style="warning" %}
+Treat this url like a password and **do not share it with anyone** else!
+{% endhint %}
 
 ### How to customize message name and avatar? <a href="#how-to-customize-message-name-and-avatar" id="how-to-customize-message-name-and-avatar"></a>
 
