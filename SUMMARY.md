@@ -94,6 +94,7 @@
   * [How to give my team access to all channels?](faq/sync-permissions/allow-roles-access.md)
   * [How to block roles access to all channels?](faq/sync-permissions/deny-roles-access.md)
 * [How to disable the "Push to Talk" popup?](faq/push-to-talk.md)
+* [How to change the bot language?](faq/language.md)
 * [Why do some commands have a 5min cooldown?](faq/5min-cooldown.md)
 
 ## Troubleshooting
