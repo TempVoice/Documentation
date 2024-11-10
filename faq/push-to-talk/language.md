@@ -1,15 +1,15 @@
 ---
+icon: globe
 description: >-
   TempVoice is translated into over 25 languages by native speakers. Simply
   change the language to make it easier for your users to understand the bot.
-icon: globe
 ---
 
-# How to change the bot language?
+# How to change the language for TempVoice?
 
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Appearance -> Language
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

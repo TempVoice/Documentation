@@ -93,8 +93,8 @@
 * [How to sync permissions to temporary channels?](faq/sync-permissions/README.md)
   * [How to give my team access to all channels?](faq/sync-permissions/allow-roles-access.md)
   * [How to block roles access to all channels?](faq/sync-permissions/deny-roles-access.md)
-* [How to disable the "Push to Talk" popup?](faq/push-to-talk.md)
-* [How to change the language for TempVoice?](faq/language.md)
+* [How to disable the "Push to Talk" popup?](faq/push-to-talk/README.md)
+  * [How to change the language for TempVoice?](faq/push-to-talk/language.md)
 * [Why do some commands have a 5min cooldown?](faq/5min-cooldown.md)
 
 ## Troubleshooting

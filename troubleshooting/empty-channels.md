@@ -11,8 +11,8 @@ description: >-
 
 1. Check if TempVoice is online: [https://tempvoice.xyz/status](https://tempvoice.xyz/status)
 2. Try to join and leave this channel again
-3. Only if 3. does not work try to manually delete the channel
-4.  Only if 4. does not work you have to create a Discord support ticket with this text:\
+3. Only if 2. does not work try to manually delete the channel
+4.  Only if 3. does not work you have to create a Discord support ticket with this text:\
     \
     [https://support.discord.com/hc/en-us/requests/new?ticket\_form\_id=360000029212](https://support.discord.com/hc/en-us/requests/new?ticket\_form\_id=360000029212)
 
