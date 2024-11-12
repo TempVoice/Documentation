@@ -21,7 +21,9 @@ TempVoice sends you error messages if it is unable to create a temporary channel
 
 ## Check for missing permissions <a href="#check-permissions" id="check-permissions"></a>
 
-Reinvite TempVoice to quickly refresh all permissions: [https://tempvoice.xyz/invite](https://tempvoice.xyz/invite)
+Reinvite TempVoice to quickly refresh all permissions:
+
+{% embed url="https://tempvoice.xyz/invite" %}
 
 ***
 

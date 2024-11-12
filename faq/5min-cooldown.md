@@ -10,6 +10,10 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-[https://discord.gg/discord-developers](https://discord.gg/discord-developers) [https://discord.com/channels/613425648685547541/697138785317814292/715995470048264233](https://discord.com/channels/613425648685547541/697138785317814292/715995470048264233)
-{% endhint %}
+{% embed url="https://discord.gg/discord-developers" %}
+Discord Server
+{% endembed %}
+
+{% embed url="https://discord.com/channels/613425648685547541/697138785317814292/715995470048264233" %}
+Message Link
+{% endembed %}

@@ -7,7 +7,7 @@ description: >-
 
 # /join
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
 
 {% hint style="warning" %}
 A user needs **Use Application Command** permission to use this command.

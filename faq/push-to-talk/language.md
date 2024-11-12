@@ -9,7 +9,7 @@ description: >-
 
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your server -> Appearance -> Language
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

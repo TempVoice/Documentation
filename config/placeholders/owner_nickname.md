@@ -1,20 +1,21 @@
 ---
-description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+description: Replaced with the nickname of the temporary channel owner.
 ---
 
 # {OWNER\_NICKNAME}
 
+## Example
+
 ```
 🐶・{OWNER_NICKNAME}
-🐶・Juu's Voice Channel... 🐶・Exo's Voice Channel...
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+If the owner of the channel is nickname is **Jonah** or **Juu** on Discord:
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+🐶・Jonah
+```
+
+```
+🐶・Juu
+```

@@ -1,29 +1,33 @@
 ---
-description: This placeholder gets replaced with a random word from a predefined list
+description: Replaced with a random selected word from a predefined list.
 ---
 
 # {RANDOM}
 
+## Example
+
 ```
 🌳・{RANDOM}
-(Predefined: Oak, Maple, Rose)
-
-🌳・Rose... 🌳・Oak... 🌳・Maple
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+If you predefined the words `Oak`, `Maple`, `Rose`:
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+🌳・Rose
+```
 
-### How to customize the predefined list? <a href="#how-to-customize-the-predefined-list" id="how-to-customize-the-predefined-list"></a>
+```
+🌳・Oak
+```
 
-* Visit the [https://tempvoice.xyz/dashboard](https://tempvoice.xyz/dashboard) and login with Discord
-* Select your Discord Server
-* Select the creator channel where you want to use {RANDOM}
-* Go to the "Customization" tab
+```
+🌳・Maple
+```
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+## Customize the placeholder
+
+To customize the list of predefined words you have to customize the placeholder.
+
+This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change its defaults.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
