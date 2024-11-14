@@ -1,19 +1,17 @@
 ---
-description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+description: Replaced by the state of an activity from the owner of a temporary channel.
 ---
 
 # {ACTIVITY\_STATE}
 
-<pre><code><strong>{ACTIVITY_DETAILS} | {ACTIVITY_STATE}
-</strong>Never Gonna Give You Up | Rick Astley
-</code></pre>
+## Example
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+```
+{ACTIVITY_DETAILS} | {ACTIVITY_STATE}
+```
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+Never Gonna Give You Up | Rick Astley
+```
+
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
