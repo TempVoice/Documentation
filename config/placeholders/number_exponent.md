@@ -1,20 +1,25 @@
 ---
-description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+description: Replaced by the last number of temporary channels written as exponent.
 ---
 
 # {NUMBER\_EXPONENT}
 
+## Example
+
 ```
 🦔・Voice Channel {NUMBER_EXPONENT}
-🦔・Voice Channel ¹ ... 🦔・Voice Channel ² ... 🦔・Voice Channel ³ ...
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+How multiple temporary channels from a creator could look like:
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
+```
+🦔・Voice Channel ¹
+🦔・Voice Channel ²
+🦔・Voice Channel ³
+```
+
+{% hint style="info" %}
+Temporary channels cannot be ordered as shown in this example.
+
+If temporary channel (2) is deleted, the next created temporary channel will take its place and be assigned the number (2). This ensures that the channels remain efficiently utilized, even if they are not in a sequential order.
 {% endhint %}

@@ -1,5 +1,5 @@
 ---
-description: Replaced with the nickname of the temporary channel owner.
+description: Replaced by the nickname of the temporary channel owner.
 ---
 
 # {OWNER\_NICKNAME}
@@ -10,7 +10,7 @@ description: Replaced with the nickname of the temporary channel owner.
 🐶・{OWNER_NICKNAME}
 ```
 
-If the owner of the channel is nickname is **Jonah** or **Juu** on Discord:
+If the owner of the channel nickname is **Jonah** or **Juu** on Discord:
 
 ```
 🐶・Jonah

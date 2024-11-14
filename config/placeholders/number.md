@@ -1,20 +1,21 @@
 ---
-description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+description: Replaced by the last number of temporary channels.
 ---
 
 # {NUMBER}
 
+## Example
+
 ```
 🐰・{NUMBER} Voice Channel
-🐰・1 Voice Channel... 🐰・2 Voice Channel... 🐰・3 Voice Channel...
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+How multiple temporary channels from a creator could look like:
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+🐰・1 Voice Channel
+🐰・2 Voice Channel
+🐰・3 Voice Channel
+🐰・4 Voice Channel
+🐰・5 Voice Channel
+```

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Replaced with the privacy state (Public, Locked, Hidden) of the temporary
+  Replaced by the privacy state (Public, Locked, Hidden) of the temporary
   channel.
 ---
 

@@ -1,20 +1,19 @@
 ---
 description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+  Replaced by the DD/MM/YYYY date where the owner of the temporary channel
+  created their Discord account.
 ---
 
 # {OWNER\_CREATED}
 
+## Example
+
 ```
 🐭・Created: {OWNER_CREATED}
-🐭・Created: 22/08/2017
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
+If the owner of the temporary channels created their account on 22/08/2017:
 
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+🐭・Created: 22/08/2017
+```

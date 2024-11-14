@@ -1,20 +1,14 @@
 ---
-description: >-
-  This placeholder gets replaced with the personalized channel name of the
-  temporary voice channel owner.
+description: Replaced by the channel ID of the temporary channelr.
 ---
 
 # {CHANNEL\_ID}
 
+## Example
+
 ```
-Please read the rules in: <#{CHANNEL_ID}>
-Please read the rules in: #rules
+<#{CHANNEL_ID}>
 ```
 
-{% hint style="success" %}
-This placeholder can only be used for the following:
-
-* [Temporary Channel Names](../creator/overview/name.md)
-* [Waiting Room Names](../creator/customization/waiting-room-name.md)
-* [Welcome Messages](../creator/customization/welcome-message.md)
-{% endhint %}
+```
+```

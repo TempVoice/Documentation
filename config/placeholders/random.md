@@ -1,5 +1,5 @@
 ---
-description: Replaced with a random selected word from a predefined list.
+description: Replaced by a random selected word from a predefined list.
 ---
 
 # {RANDOM}

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Gets replaced with the custom name a user can set for their temporary channel
+  Gets replaced by the custom name a user can set for their temporary channel
   using the /voice name command. This allows you to have immutable name parts
   that cannot be changed by the user.
 ---

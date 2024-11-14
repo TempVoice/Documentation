@@ -1,5 +1,5 @@
 ---
-description: Replaced with the username of the temporary channel owner.
+description: Replaced by the username of the temporary channel owner.
 ---
 
 # {OWNER\_USERNAME}
