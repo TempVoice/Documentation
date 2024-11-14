@@ -2,6 +2,7 @@
 description: >-
   Replaced by the emoji of a custom status from the owner of a temporary
   channel.
+icon: crown
 ---
 
 # {ACTIVITY\_EMOJI}

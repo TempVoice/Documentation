@@ -1,5 +1,6 @@
 ---
 description: Replaced by details of an activity from the owner of a temporary channel.
+icon: crown
 ---
 
 # {ACTIVITY\_DETAILS}
