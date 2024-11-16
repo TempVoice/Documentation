@@ -18,4 +18,4 @@ Here we will explain everything you need to know to get started with TempVoice. 
 
 It is a voice channel, but temporary and managed by the user who created it. This means that the channel only exists as long as someone is in it and that you no longer have empty voice channels on your Discord server which just taking up space.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
