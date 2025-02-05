@@ -1,9 +1,9 @@
 ---
 icon: hand-wave
 description: >-
-  Implementing temporary voice channels on your Discord server is easy. Let your
-  users customize and moderate their own voice channels and enjoy a cleaner
-  server with no unused channels.
+  Implementing temporary voice channels on your Discord server is easy with
+  TempVoice. Let your users customize and moderate their own voice channels and
+  enjoy a cleaner server with no unused channels.
 ---
 
 # Welcome
@@ -12,7 +12,7 @@ description: >-
 
 Here we will explain everything you need to know to get started with TempVoice. Feel free to join our discord server for further questions and to stay up to date with announcements.
 
-{% embed url="https://discord.gg/tempvoice" %}
+[https://discord.com/invite/tempvoice](https://discord.com/invite/tempvoice)
 
 ### What's a Temporary Channel? <a href="#whats-a-temporary-channel" id="whats-a-temporary-channel"></a>
 
