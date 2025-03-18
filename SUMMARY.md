@@ -28,7 +28,6 @@
   * [Miscellaneous](config/creator/miscellaneous/README.md)
     * [Temporary Channel Position](config/creator/miscellaneous/positon.md)
     * [Total Limit of Temporary Channels](config/creator/miscellaneous/total-limit.md)
-    * [Temporary Channel Fillup](config/creator/miscellaneous/fillup.md)
     * [Actions Log](config/creator/miscellaneous/actions-log.md)
 * [Placeholders](config/placeholders/README.md)
   * [{CUSTOM}](config/placeholders/custom.md)
