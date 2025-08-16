@@ -1,15 +1,15 @@
 ---
-icon: heart-crack
 description: >-
   TempVoice needs to be online and have all required permissions to be
   functional.
+icon: heart-crack
 ---
 
 # TempVoice not working
 
 ## Check if TempVoice is online <a href="#check-the-status-page-and-may-be-patient" id="check-the-status-page-and-may-be-patient"></a>
 
-See the status of TempVoice here [https://tempvoice.xyz/status](https://tempvoice.xyz/status) or join the support server [https://discord.gg/tempvoice](https://discord.gg/tempvoice) and look in [#notification](https://discordapp.com/channels/904322845646135317/916444589622177902) for maintance/outage announcements.
+See if Discord has announced any outage or has an increased api latency here [https://discordstatus.com/](https://discordstatus.com/). You can also join the support server [https://discord.gg/tempvoice](https://discord.gg/tempvoice) and look in [#notification](https://discordapp.com/channels/904322845646135317/916444589622177902) for maintaince/outage announcements.
 
 ***
 

@@ -41,6 +41,7 @@
   * [{NUMBER}](config/placeholders/number.md)
   * [{NUMBER\_ROMAN}](config/placeholders/number_roman.md)
   * [{NUMBER\_ALPHA}](config/placeholders/number_alpha.md)
+  * [{NUMBER\_DIGIT}](config/placeholders/number_digit.md)
   * [{NUMBER\_EXPONENT}](config/placeholders/number_exponent.md)
   * [{ROLE\_HIGHEST}](config/placeholders/role_highest.md)
   * [{ROLE\_HOIST}](config/placeholders/role_hoist.md)
