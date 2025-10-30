@@ -1,17 +1,17 @@
 ---
-icon: badge-check
 description: >-
   If your Discord server has a verification system and you want to prevent
   @everyone from using temporary channels.
+icon: badge-check
 ---
 
 # How to integrate my verification system?
 
 ## Define your **Member Roles**
 
-&#x20;[Dashboard](https://tempvoice.xyz/dashboard) -> Select a Creator -> Permissions Tab -> Member Roles
+[Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Permissions Tab -> Temporary Channel Access Roles
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 After you defined your roles, a newly created temporary channel will set the permission of those roles by default for `Connect` and `View Channels` to <img src="../.gitbook/assets/On.png" alt="" data-size="line">.
 

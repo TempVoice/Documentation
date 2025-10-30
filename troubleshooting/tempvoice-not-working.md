@@ -13,9 +13,9 @@ See if Discord has announced any outage or has an increased api latency here [ht
 
 ***
 
-## Turn on your DMs and do not block TempVoice <a href="#turn-on-your-dms-and-do-not-block-tempvoice" id="turn-on-your-dms-and-do-not-block-tempvoice"></a>
+## Check your DMs <a href="#turn-on-your-dms-and-do-not-block-tempvoice" id="turn-on-your-dms-and-do-not-block-tempvoice"></a>
 
-TempVoice sends you error messages if it is unable to create a temporary channel.
+TempVoice sends you a notification when there was an error creating a temporary channel. Make sure you have DMs enabled and didn't blocked TempVoice.
 
 ***
 
@@ -57,7 +57,9 @@ Required if you want to sync "Manage Permissions"
 ```
 
 {% hint style="warning" %}
-**Category Permissions**
+**Ratelimit**
 
-If TempVoice has all of the above permissions but **still cannot create temporary channels**, then **one of these permissions are not granted in the category** where the channel should be created.
+If TempVoice is online, has all permissions and worked fine before, you might experience a ratelimit. This can happen when bots created too many channels in a short time.
+
+This ratelimit will resolve itself after some time.&#x20;
 {% endhint %}

@@ -1,15 +1,15 @@
 ---
-icon: lock
 description: This can be easily done by syncing role permissions
+icon: lock
 ---
 
 # How to block roles access to all channels?
 
 ## Enable permission syncing
 
-1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select a Creator -> Permissions Tab -> Synchronize Permissions
+1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Permissions Tab -> Temporary Channel Permission
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -25,4 +25,4 @@ You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@e
 If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../member-roles.md)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>

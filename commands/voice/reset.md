@@ -6,4 +6,4 @@ description: >-
 
 # reset
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Usage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
