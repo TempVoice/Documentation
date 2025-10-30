@@ -24,7 +24,7 @@ A token has to be provided from you for us to host a new instance of TempVoice f
 
 ***
 
-## How to get a bot token?
+## How to get a bot token? <a href="#token" id="token"></a>
 
 1.  It's easy. Visit [https://discord.com/developers/applications](https://discord.com/developers/applications), login with your Discord account and click on the blue **New Application** button.\
 
