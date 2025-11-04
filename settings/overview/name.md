@@ -21,7 +21,7 @@ Disable it under [Toggle Features](../moderation/features.md).
 Disable it under [Restore Owner Settings](../moderation/restore.md).
 
 {% hint style="info" %}
-Try out [Placeholders](../../faq/how-to-use-placeholders/) to have dynamic temporary channel names!
+Try out [Placeholders](../../faq/placeholders/) to have dynamic temporary channel names!
 {% endhint %}
 
 ***
