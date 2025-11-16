@@ -12,7 +12,7 @@
   * [Temporary Channel User Limit](settings/overview/limit.md)
   * [Temporary Channel Category](settings/overview/category.md)
   * [Temporary Channel Bitrate](settings/overview/bitrate.md)
-  * [Temporary Channel Position](settings/overview/positon.md)
+  * [Temporary Channel Position](settings/overview/position.md)
 * [Permissions](settings/permissions/README.md)
   * [Temporary Channel Access Roles](settings/permissions/access-roles.md)
   * [Temporary Channel Permissions](settings/permissions/sync.md)

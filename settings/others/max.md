@@ -10,7 +10,7 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Others` tab -> `Max Temporary Channels`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 As soon the limit is reached, a user trying to create another channel, will stay in the Creator Channel and get a notification from TempVoice.
 
