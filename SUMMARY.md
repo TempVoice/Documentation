@@ -23,10 +23,11 @@
   * [Moderation Log](settings/moderation/log.md)
   * [Restore Owner Settings](settings/moderation/restore.md)
   * [Censor Channel Names](settings/moderation/censor.md)
+  * [Age Restriction for In-Voice Chat](settings/moderation/age_restriction.md)
 * [Others](settings/others/README.md)
   * [Temporary Channel Greeting](settings/others/greeting.md)
+  * [TempVoice Interface for In-Voice Chat](settings/others/interface.md)
   * [Temporary Voice Role](settings/others/voice-role.md)
-  * [Max Temporary Channels](settings/others/max.md)
 
 ## control temporary channels <a href="#commands" id="commands"></a>
 

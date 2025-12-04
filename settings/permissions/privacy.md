@@ -8,9 +8,9 @@ description: >-
 
 > **Where do I find this?**
 >
-> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Privacy Mode`  &#x20;
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Privacy Mode`&#x20;
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 This default channel privacy can be changed by the temporary channel owner with [/voice privacy](../../commands/voice/privacy.md) or an [Interface Message](../../commands/interface.md). As soon as the user creates a new temporary channel, the previous privacy mode will be used.
 

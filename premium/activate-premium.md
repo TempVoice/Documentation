@@ -8,5 +8,6 @@ icon: crown
 # Activate Premium
 
 * Visit [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), login with our Discord account.
+* Select your Discord Server in the dropdown menu:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

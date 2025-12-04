@@ -25,4 +25,4 @@ You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@e
 If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../member-roles.md)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

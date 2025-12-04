@@ -6,8 +6,8 @@ description: >-
 
 # Temporary Channel Owner Permission
 
-**Where do I find this?**
+> **Where do I find this?**
+>
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Owner Permissions`
 
-Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Owner Permissions`
-
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

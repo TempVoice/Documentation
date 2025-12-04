@@ -10,7 +10,7 @@ icon: terminal
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Result</p></figcaption></figure>
 
 {% hint style="info" %}
 A user needs **Use Application Command** permission to use this command.
