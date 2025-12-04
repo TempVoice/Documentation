@@ -15,8 +15,6 @@ icon: crown
 
 ***
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
 ## How to get a Discord Webhook URL?
 
 1. Click on the edit icon of a text channel.
