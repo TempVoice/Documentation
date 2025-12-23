@@ -19,6 +19,12 @@ TempVoice sends you a notification when there was an error creating a temporary 
 
 ***
 
+## Ratelimit
+
+Most Discord servers have a total channel creation limit of 2,000. Once this limit has been reached, no bot can create additional channels until the limit is reset. This limitation is imposed by Discord and cannot be prevented or increased by us.
+
+***
+
 ## Check for missing permissions <a href="#check-permissions" id="check-permissions"></a>
 
 Reinvite TempVoice to quickly refresh all permissions:
