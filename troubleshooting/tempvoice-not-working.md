@@ -21,7 +21,11 @@ TempVoice sends you a notification when there was an error creating a temporary 
 
 ## Ratelimit
 
-Most Discord servers have a total channel creation limit of 2,000. Once this limit has been reached, no bot can create additional channels until the limit is reset. This limitation is imposed by Discord and cannot be prevented or increased by us.
+Most Discord servers have a total channel creation limit of 2,000 per 24 hours. Once this limit has been reached, no bot can create additional channels until the limit is reset. This limitation is imposed by Discord and cannot be prevented or increased by us.
+
+Very active communities should offer enough casual voice channels and avoid the use of other bots which also create channels like ticket bots. It's also recommended to lock temporary channel creation behind a role with some requirements (level, time, etc).
+
+This can help to prevent reaching the total channel creation limit.
 
 ***
 
