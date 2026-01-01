@@ -20,4 +20,4 @@ Disabling certain features, such as renaming voice channels, disables the corres
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="73"><figcaption></figcaption></figure>
 
-<p align="center">Ownerless mode is useful when you want to use temporary channels as public game channels that should be managed by the user who created the channel.</p>
+<p align="center">Ownerless mode is useful when you want to use temporary channels as public game channels. The user who created the temporary channel <strong>will not</strong> be able to customize or moderate it.</p>
