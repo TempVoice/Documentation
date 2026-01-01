@@ -57,7 +57,7 @@ A token has to be provided from you for us to host a new instance of TempVoice f
 3.  Enter your Bot Token to begin the installation. The process takes approximately 2 minutes. Once completed, you can invite the bot to your Discord server by clicking the "+ Add to your server" button.\
     <br>
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 By entering a token, you agree to our [Terms of Service](https://tempvoice.xyz/terms-of-service) section 3. d.\
