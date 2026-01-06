@@ -26,3 +26,9 @@ If your Discord server has a verification system and you want to prevent @everyo
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Block creating own channels
+
+You should also make sure that users with that role are not able to create own temporary channels.
+
+This can be very easily done by directly editing the permissions for that role in the creator channel: Set "Connect" or "View Channel" to <img src="../../.gitbook/assets/Off.png" alt="" data-size="line">
