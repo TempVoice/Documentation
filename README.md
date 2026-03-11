@@ -8,6 +8,8 @@ icon: hand-wave
 
 # Welcome
 
+{% embed url="https://youtu.be/9HG0nN1ILBk?si=QaMn1UErGDpOIvDP" %}
+
 ## Thanks for your interest into TempVoice™
 
 Here, we’ll explain everything you need to know to get started with TempVoice™. Feel free to join our Discord server if you have any questions or want to stay up to date with announcements.
