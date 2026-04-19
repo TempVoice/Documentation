@@ -24,4 +24,6 @@ It’s a voice channel — but with a catch: it only exists as long as someone i
 
 ### What can I do with a Temporary Channel?
 
-As the user who joined a creator channel, you become the owner of the temporary channel. As the owner, you can change the channel name and perform other actions using the [/voice](commands/voice/) commands or an [Interface Message](commands/interface.md).
+As the user who joined a **Creator Channel**, you become the owner of the temporary channel.
+
+As the owner, you can customize and moderate the channel using the [/voice](commands/voice/) commands or an [Interface Message](commands/interface.md).

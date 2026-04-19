@@ -12,6 +12,3 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-The position of channels in Discord can be unpredictable due to api limitations.
-{% endhint %}
