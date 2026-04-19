@@ -7,36 +7,14 @@ icon: sparkles
 
 # Customize Interface
 
-## Open the interface preview
+Visit the [TempVoice Dashboard](https://tempvoice.xyz/dashboard), login with your Discord account, select your Discord server and you will see the **Interface Preview.**
 
-1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord Server
+This interactive preview lets you directly edit the interface. Play around with it!
 
-<div align="left"><figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure></div>
-
-***
-
-2. Play around with the preview by clicking on the text to modify it, or by clicking and rearranging the buttons to hide them.
-
-## Change avatar and name
-
-{% hint style="info" %}
-As soon you enter a custom avatar or name the interface message will turn into a webhook which allows to apply a custom branding.
-
-If you want to change the avatar and name of the bot itself, you should take a look at [Your Own Bot](your-own-bot.md)
-{% endhint %}
-
-1. Click on the name and enter a new one like this:
-
-<div align="center"><figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-2. Click on the avatar and enter an image url. Its important that this url has to store the image permanent. Uploading an image on Discord and using that image link won't be permanent.
+This example changed the avatar, name, title, description, footer text and the order of buttons, it's also possible to remove them by clicking on them once.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-## This is how it could look like
-
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

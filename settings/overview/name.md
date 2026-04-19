@@ -8,7 +8,7 @@ description: Set the default naming format for temporary channels when they are 
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Overview` tab -> `Temporary Channel Name`   &#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 This default channel name can be changed by the temporary channel owner with [/voice name](../../commands/voice/name.md) or an [Interface Message](../../commands/interface.md). As soon as the user creates a new temporary channel, the previous name will be used.
 

@@ -14,9 +14,7 @@ icon: robot
 
 ### TempVoice Premium™
 
-First of all, you need the **Your Own Branding** plan to continue.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+First of all, you need the **Your Own Branding**™ plan to continue.
 
 ### Discord Bot Token
 

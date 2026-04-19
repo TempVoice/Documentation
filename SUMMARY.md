@@ -60,8 +60,8 @@
 ## tempvoice premium <a href="#premium" id="premium"></a>
 
 * [Activate Premium](premium/activate-premium.md)
-* [Customize Interface](premium/customize-interface.md)
 * [Your Own Branding™](premium/your-own-bot.md)
+* [Customize Interface](premium/customize-interface.md)
 
 ## Frequently Asked Questions <a href="#faq" id="faq"></a>
 

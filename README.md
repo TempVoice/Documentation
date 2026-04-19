@@ -20,7 +20,7 @@ Here, we’ll explain everything you need to know to get started with TempVoice�
 
 It’s a voice channel — but with a catch: it only exists as long as someone is using it.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### What can I do with a Temporary Channel?
 

@@ -10,4 +10,4 @@ icon: crown
 * Visit [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), login with your Discord account.
 * Select your Discord Server in the dropdown menu:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
