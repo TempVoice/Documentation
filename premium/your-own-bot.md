@@ -1,71 +1,56 @@
 ---
 description: >-
-  Get your own TempVoice and customize its profile picture, name, status, about
-  me. In addition, gain access to exclusive features as the ability to display
-  your current activity as channel name.
+  Once you have subscribed to the Your Own Branding™ premium plan, you can start
+  with the setup of your own bot.
 icon: robot
 ---
 
 # Your Own Branding™
 
-## Requirements
+With the **Your Own Branding™** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon and banner of the bot.
 
-***
+Furthermore, your bot has access to all premium benefits + excusive features, like the [Activity Placeholders](../faq/placeholders/activity_name.md) and _Reserving Channels (Coming soon)_.
 
-### TempVoice Premium™
+## Setup your bot
 
-First of all, you need the **Your Own Branding**™ plan to continue.
+To get started, go to [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), subscribe if you haven't, choose your Discord server to activate premium and provide us a Discord bot token.\
+\
+After providing the token, the installation will start in the background which takes approximately 2 minutes.
 
-### Discord Bot Token
+Once it has been finished, you can invite your bot to your server.
 
-A token has to be provided from you for us to host a new instance of TempVoice for you which can customized.
+{% hint style="warning" icon="gear-complex" %}
+**Have you used the public TempVoice bot before?**
 
-***
+The public TempVoice bot has to be kicked from the server on which you invited your bot.
+
+All **Creator Channels** you had with the public TempVoice bot will continue work. Just the interfaces have to be recreated using `/setup` -> `New Interface`.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" icon="shield" %}
+By providing your bot token, you confirm that you've read our [Terms of Service](https://tempvoice.xyz/terms-of-service) (section 3d) and authorize us to host a TempVoice™ instance on your behalf.
+{% endhint %}
 
 ## How to get a bot token? <a href="#token" id="token"></a>
 
-1.  It's easy. Visit [https://discord.com/developers/applications](https://discord.com/developers/applications), login with your Discord account and click on the blue **New Application** button.<br>
+Don't worry, it won't get too technical.
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-2.  Click on the **Bot** tab on the left.<br>
+Visit [https://discord.com/developers/applications](https://discord.com/developers/applications), login with your Discord account and click on **New Application**.
 
-    <figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-3.  Scroll down to **Privileged Gateway Intents** and enable `PRESENCE INTENT` and `SERVER MEMBERS INTENT`.<br>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-4. By scrolling back to the top, you will be able to change the bot's icon, banner, username to whatever you like!
-5.  Click on **Reset Token** to copy the Token.<br>
+Go to the **Bot** tab, scroll down to **Authorization Flow** and enable **Presence Intent** and **Server Members Intent**.
 
-    <figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Optionally you can turn off **Public Bot**, but <mark style="color:$primary;">don't</mark> turn on **Requires OAuth2 Code Grant.**
 
-{% hint style="warning" %}
-**Be careful** not to share this Token with anyone, other than the TempVoice Dashboard.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-***
+Scroll up, upload your icon/banner, change the username and click on **Reset Token.**
 
-## Installation
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-1. Visit [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), login with our Discord account.
-2.  **Activate Premium** for the Discord server where you want to use the bot.<br>
-
-    <div align="left"><figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure></div>
-
-
-3.  Enter your Bot Token to begin the installation. The process takes approximately 2 minutes. Once completed, you can invite the bot to your Discord server by clicking the "+ Add to your server" button.\
-    <br>
-
-    <figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-By entering a token, you agree to our [Terms of Service](https://tempvoice.xyz/terms-of-service) section 3. d.\
-Authorizing us to host an instance of TempVoice™ on your behalf.
-{% endhint %}
-
-{% hint style="warning" %}
-**Kick the public TempVoice bot**
-
-The public TempVoice bot has to be kicked from the servers where you want to use a Custom Branding bot!
-
-All creator channels you had with the public TempVoice bot will continue work. Just the interfaces have to be recreated using `/setup` and click on `New Interface`.
+{% hint style="warning" icon="key" %}
+Treat this token like a password, do not share it with anybody.
 {% endhint %}

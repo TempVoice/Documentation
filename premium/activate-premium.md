@@ -7,7 +7,10 @@ icon: crown
 
 # Activate Premium
 
-* Visit [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), login with your Discord account.
-* Select your Discord Server in the dropdown menu:
+Visit the [TempVoice Premium](https://tempvoice.xyz/dashboard) page, login with your Discord account and select your Discord server.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" icon="shield" %}
+You don't need any Discord permissions to activate premium on a Discord server.
+{% endhint %}
