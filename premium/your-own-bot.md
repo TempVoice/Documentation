@@ -30,7 +30,7 @@ All **Creator Channels** you had with the public TempVoice bot will continue wor
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="shield" %}
-By providing your bot token, you confirm that you've read our [Terms of Service](https://tempvoice.xyz/terms-of-service) (section 3d) and authorize us to host a TempVoice™ instance on your behalf.
+By providing your bot token, you confirm that you've read our [Privacy Policy](https://tempvoice.xyz/privacy-policy) & [Terms of Service](https://tempvoice.xyz/terms-of-service) (section 3d) and authorize us to host a TempVoice™ instance on your behalf.
 {% endhint %}
 
 ## How to get a bot token? <a href="#token" id="token"></a>
