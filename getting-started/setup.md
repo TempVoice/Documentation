@@ -7,13 +7,13 @@ icon: bullseye-arrow
 
 # Quickstart
 
-## 1. Invite TempVoice™
+## Invite TempVoice™
 
 Visit [https://tempvoice.xyz/invite](https://tempvoice.xyz/invite) to invite <img src="../.gitbook/assets/image (25) (1) (1).png" alt="" data-size="line"> to your Discord server
 
 ***
 
-## 2. Initial Setup
+## Initial Setup
 
 Run the command `/setup` and click on <img src="../.gitbook/assets/Setup TempVoice.png" alt="" data-size="line">
 
