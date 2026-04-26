@@ -10,6 +10,7 @@ description: Choose where to sync permissions from when creating a temporary cha
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-How to give my team access to locked channel? Take a look at [How to sync permissions?](../../faq/sync-permissions/)
+{% hint style="success" icon="shield" %}
+**How to give my team access to locked channel?**\
+Take a look at [How to sync permissions?](../../faq/sync-permissions/)
 {% endhint %}

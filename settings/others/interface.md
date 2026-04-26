@@ -2,6 +2,7 @@
 description: >-
   Send the TempVoice Interface directly into the in-voice chat of a temporary
   channel after its creation.
+icon: crown
 ---
 
 # TempVoice Interface for In-Voice Chat

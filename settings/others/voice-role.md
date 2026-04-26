@@ -1,5 +1,6 @@
 ---
 description: Assign a role to users when they are in a temporary voice channel.
+icon: crown
 ---
 
 # Temporary Voice Role

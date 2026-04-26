@@ -84,6 +84,7 @@
   * [{GUILD\_ID}](faq/placeholders/guild_id.md)
   * [{CHANNEL\_ID}](faq/placeholders/channel_id.md)
   * [{ACTIVITY\_NAME}](faq/placeholders/activity_name.md)
+  * [{ACTIVITY\_MAJORITY\_NAME}](faq/placeholders/activity_majority_name.md)
   * [{ACTIVITY\_DETAILS}](faq/placeholders/activity_details.md)
   * [{ACTIVITY\_STATE}](faq/placeholders/activity_state.md)
   * [{ACTIVITY\_EMOJI}](faq/placeholders/activity_emoji.md)

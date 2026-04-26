@@ -26,6 +26,7 @@ description: >-
 
 <p align="center">Users without an 'Access Role' can see but not join temporary channels.</p>
 
-{% hint style="success" %}
-Why might I need to set up access roles? Take a look at [How to integrate my verification system?](../../faq/member-roles.md)
+{% hint style="success" icon="shield" %}
+**Why might I need to set up access roles?**\
+Take a look at [How to integrate my verification system?](../../faq/member-roles.md)
 {% endhint %}

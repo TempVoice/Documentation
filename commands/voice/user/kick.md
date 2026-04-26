@@ -11,5 +11,5 @@ description: Disconnect a user out of your temporary channel.
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>After</p></figcaption></figure>
 
 {% hint style="info" %}
-Kicking is only useful if your channel is locked. Unless the kicked user could join again.
+To kick a user, the temporary channel has to be locked with [/voice privacy](../privacy.md) or has a user limit with [/voice limit](../limit.md), because the kicked user could join again.
 {% endhint %}

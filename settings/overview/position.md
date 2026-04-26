@@ -12,3 +12,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+The position of channels might become unpredictable, expect not fully accurate behaviour.
+{% endhint %}
