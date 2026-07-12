@@ -28,5 +28,5 @@ description: >-
 
 {% hint style="success" icon="shield" %}
 **Why might I need to set up access roles?**\
-Take a look at [How to integrate my verification system?](../../faq/member-roles.md)
+Take a look at [How to integrate my verification system?](../../guides/member-roles.md)
 {% endhint %}

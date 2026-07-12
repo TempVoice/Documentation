@@ -12,7 +12,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-This default channel privacy can be changed by the temporary channel owner with [/voice privacy](../../commands/voice/privacy.md) or an [Interface Message](../../commands/interface.md). As soon as the user creates a new temporary channel, the previous privacy mode will be used.
+This default channel privacy can be changed by the temporary channel owner with [/voice privacy](../../commands/voice/privacy.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous privacy mode will be used.
 
 ### Don’t want users to change the privacy mode?
 

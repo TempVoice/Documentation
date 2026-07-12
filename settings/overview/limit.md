@@ -10,7 +10,7 @@ description: Set the default user limit for temporary channels when they are cre
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-This default channel user limit can be changed by the temporary channel owner with [/voice limit](../../commands/voice/limit.md) or an [Interface Message](../../commands/interface.md). As soon as the user creates a new temporary channel, the previous user limit will be used.
+This default channel user limit can be changed by the temporary channel owner with [/voice limit](../../commands/voice/limit.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous user limit will be used.
 
 ### Don’t want users to change the user limit?
 

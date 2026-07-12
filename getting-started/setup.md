@@ -31,7 +31,7 @@ You can have multiple ➕ **Creator Channels**, each of which can be configured 
 
 ## ✨ Interface Message
 
-A text channel in which the bot sends an [interface](../commands/interface.md) which is an alternative to the [/voice](../commands/voice/) commands and used to customize a temporary channel.
+A text channel in which the bot sends an [interface](../commands/interface-message.md) which is an alternative to the [/voice](../commands/voice/) commands and used to customize a temporary channel.
 
 {% hint style="info" icon="gear-complex" %}
 You can have unlimited ✨ **Interface Messages**. These can either be in a separate channel or sent directly in the chat of a temporary channel with: [Temporary Channel Greeting](../settings/others/greeting.md).

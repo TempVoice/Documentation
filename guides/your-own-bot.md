@@ -1,21 +1,33 @@
 ---
 description: >-
-  Once you have subscribed to the Your Own Branding™ premium plan, you can start
-  with the setup of your own bot.
+  Once you've subscribed to a TempVoice Premium plan, getting started only takes
+  a few clicks.
 icon: robot
 ---
 
-# Your Own Branding™
+# How can use I use TempVoice Premium™?
 
-With the **Your Own Branding™** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon and banner of the bot.
+## Activate Premium <a href="#activate-premium" id="activate-premium"></a>
 
-Furthermore, your bot has access to all premium benefits + excusive features, like the [Activity Placeholders](../faq/placeholders/activity_name.md) and _Reserving Channels (Coming soon)_.
+No matter which Premium plan you subscribe to, if you purchased it on the **TempVoice website** (rather than through Discord), you'll need to **activate Premium** on the server where you want to use its benefits.
 
-## Setup your bot
+Go to [tempvoice.xyz/premium](https://tempvoice.xyz/premium), log in with your Discord account if you're not already logged in, and select your server from the dropdown menu.
 
-To get started, go to [https://tempvoice.xyz/premium](https://tempvoice.xyz/premium), subscribe if you haven't, choose your Discord server to activate premium and provide us a Discord bot token.\
-\
-After providing the token, the installation will start in the background which takes approximately 2 minutes.
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
+Make sure you click "Save Changes" afterwards.
+
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+
+## Your Own Branding™
+
+If you subscribed to the **Your Own Branding™** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon and banner of the bot.
+
+Furthermore, your bot has access to all premium benefits + excusive features, like the [Activity Placeholders](placeholders/activity_name.md) and _Reserving Channels (Coming soon)_.
+
+### Setup your bot
+
+To get started, you have to provide us a [Discord bot token](your-own-bot.md#token) to start the installation. This process takes approximately 2 minutes.
 
 Once it has been finished, you can invite your bot to your server.
 
@@ -33,7 +45,7 @@ All **Creator Channels** you had with the public TempVoice bot will continue wor
 By providing your bot token, you confirm that you've read our [Privacy Policy](https://tempvoice.xyz/privacy-policy) & [Terms of Service](https://tempvoice.xyz/terms-of-service) (section 3d) and authorize us to host a TempVoice™ instance on your behalf.
 {% endhint %}
 
-## How to get a bot token? <a href="#token" id="token"></a>
+### How to get a bot token? <a href="#token" id="token"></a>
 
 Don't worry, it won't get too technical.
 
