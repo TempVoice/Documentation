@@ -16,7 +16,7 @@ icon: hand
 ## Discord API
 
 * **2,000 channels per day** — Discord also limits channel _creation_, not just how many can exist at once. A server can have a maximum of **2,000 new channels created per rolling 24-hour period**, shared across **all bots and users combined**. On very active servers, this can becomes an issue. [Learn more about Ratelimits](../troubleshooting/tempvoice-not-working.md#ratelimit).
-* **Rename every 5 minutes** — You can only rename your channel once every 5 minutes. This is because Discord only allows **2 channel updates per 10 minutes**. Keep in mind: if you're using the [`{PRIVACY}`](../guides/placeholders/privacy.md) placeholder in your channel name, changing your privacy with [/voice privacy](../commands/voice/privacy.md) also triggers a rename, so it's affected by this same 5-minute cooldown.
+* **Rename every 5 minutes** — You can only rename your channel once every 5 minutes. This is because Discord only allows **2 channel updates per 10 minutes**. Keep in mind: if you're using the [`{PRIVACY}`](../help/placeholders/privacy.md) placeholder in your channel name, changing your privacy with [/voice privacy](../commands/voice/privacy.md) also triggers a rename, so it's affected by this same 5-minute cooldown.
 
 ## TempVoice
 
