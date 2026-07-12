@@ -59,8 +59,8 @@
 
 ## explanations <a href="#help" id="help"></a>
 
-* [How can use I use TempVoice Premium™?](help/your-own-bot.md)
-* [How to prevent @everyone access to temporary channels?](help/member-roles.md)
+* [How can use I use TempVoice Premium™?](help/premium.md)
+* [How to prevent @everyone access to temporary channels?](help/everyone-access.md)
 * [How to sync permissions to temporary channels?](help/sync-permissions/README.md)
   * [How to give my team access to all channels?](help/sync-permissions/allow-roles-access.md)
   * [How to block roles access to all channels?](help/sync-permissions/deny-roles-access.md)

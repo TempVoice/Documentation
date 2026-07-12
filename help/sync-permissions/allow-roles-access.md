@@ -22,7 +22,7 @@ icon: unlock
 
 You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@everyone`, because these permissions are managed when using [/voice privacy](../../commands/voice/privacy.md)!
 
-If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../member-roles.md)
+If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../everyone-access.md)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

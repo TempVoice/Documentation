@@ -27,7 +27,7 @@ Furthermore, your bot has access to all premium benefits + excusive features, li
 
 ### Setup your bot
 
-To get started, you have to provide us a [Discord bot token](your-own-bot.md#token) to start the installation. This process takes approximately 2 minutes.
+To get started, you have to provide us a [Discord bot token](premium.md#token) to start the installation. This process takes approximately 2 minutes.
 
 Once it has been finished, you can invite your bot to your server.
 
