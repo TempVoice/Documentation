@@ -12,5 +12,5 @@ description: >-
 
 {% hint style="info" %}
 You can trust up to 25 users and give them access to your temporary channel.\
-&#xNAN;_&#x43;urrently this limit cannot be increased due to Discord performant issues._
+_&#x43;urrently this limit cannot be increased due to Discord performant issues._
 {% endhint %}

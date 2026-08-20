@@ -10,7 +10,9 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Moderation` tab -> `Toggle Features`
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+A feature can be completely disabled, available to @everyone or only certain roles (premium).
 
 Disabling certain features, such as renaming voice channels, disables the corresponding command and resets a user's configuration back to the creator channel's default.
 
