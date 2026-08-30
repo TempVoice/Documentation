@@ -92,6 +92,7 @@
 
 * [How to change the language for TempVoice?](faq/language.md)
 * [How to disable the "Push to Talk" popup?](faq/push-to-talk.md)
+* [Why some users get ignored/skipped?](faq/why-some-users-get-ignored-skipped.md)
 * [What are the limitations for TempVoice?](faq/limits.md)
 * [Can my Discord partner with TempVoice for free premium?](faq/partnerships.md)
 
