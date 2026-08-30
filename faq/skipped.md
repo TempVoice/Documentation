@@ -14,7 +14,7 @@ This happens because every action on a temporary voice channel like inviting, tr
 
 When you select several users at once, the checks run per user: everyone who passes is handled normally, and only those who fail are listed back to you. The reasons below explain each one.
 
-## Is you
+## Is you <a href="#you" id="you"></a>
 
 The selected user is the person running the command. You can't invite, trust, block, kick or transfer ownership to yourself, so you are always skipped. Raised by: every target-based action.
 
