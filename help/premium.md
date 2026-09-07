@@ -7,11 +7,11 @@ icon: robot
 
 # How can use I use TempVoice Premium™?
 
+No matter which Premium plan you subscribe to, if you purchased it on the **TempVoice website** (rather than through Discord), you'll need to **activate Premium** on the server where you want to use its benefits.
+
 {% stepper %}
 {% step %}
 ### Activate Premium <a href="#activate-premium" id="activate-premium"></a>
-
-No matter which Premium plan you subscribe to, if you purchased it on the **TempVoice website** (rather than through Discord), you'll need to **activate Premium** on the server where you want to use its benefits.
 
 Go to [tempvoice.xyz/premium](https://tempvoice.xyz/premium), log in with your Discord account if you're not already logged in, and select your server from the dropdown menu.
 
@@ -23,7 +23,7 @@ Make sure you click "Save Changes" afterwards.
 {% endstep %}
 
 {% step %}
-### Your Own Branding™
+### Your Own Branding™ <a href="#your-own-branding" id="your-own-branding"></a>
 
 If you subscribed to the **Your Own Branding™** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon and banner of the bot.
 
@@ -63,7 +63,15 @@ Treat this token like a password, do not share it with anybody.
 
 Once it has been finished, you can invite your bot to your server.
 
-### Has you Discord Server more then 10.000 Members?
+{% hint style="warning" icon="gear-complex" %}
+**Have you used the public TempVoice bot before?**
+
+The public TempVoice bot has to be kicked from the server on which you invited your bot.
+
+All **Creator Channels** you had with the public TempVoice bot will continue work. Just the interfaces have to be recreated using `/setup` -> `New Interface`.
+{% endhint %}
+
+### Has you Discord Server more then 10.000 Members? <a href="#privileged-intents" id="privileged-intents"></a>
 
 If you are using your bot in a Discord server with **more then 10.000 members**, then you might be informed by Discord that you need to apply to **Privileged Intents**.
 
@@ -163,14 +171,6 @@ Yes
 </details>
 {% endstep %}
 {% endstepper %}
-
-{% hint style="warning" icon="gear-complex" %}
-**Have you used the public TempVoice bot before?**
-
-The public TempVoice bot has to be kicked from the server on which you invited your bot.
-
-All **Creator Channels** you had with the public TempVoice bot will continue work. Just the interfaces have to be recreated using `/setup` -> `New Interface`.
-{% endhint %}
 
 {% hint style="info" icon="shield" %}
 By providing your bot token, you confirm that you've read our [Privacy Policy](https://tempvoice.xyz/privacy-policy) & [Terms of Service](https://tempvoice.xyz/terms-of-service) (section 3d) and authorize us to host a TempVoice™ instance on your behalf.
