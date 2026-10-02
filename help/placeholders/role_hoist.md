@@ -1,7 +1,7 @@
 ---
 description: >-
-  Replaced by the heighted (displayed at the member list) role from the owner of
-  a temporary channel.
+  Replaced by the highest role of the temporary channel owner that is displayed
+  separately in the member list.
 ---
 
 # {ROLE\_HOIST}
@@ -20,8 +20,8 @@ description: >-
 
 ## Customize the placeholder
 
-By default, the placeholder uses nickname from the user of the temporary channel.
+If the owner has no role that is displayed separately, the placeholder is replaced by `{OWNER_NICKNAME} has no roles`.
 
-This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change.
+This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change its defaults.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure></div>

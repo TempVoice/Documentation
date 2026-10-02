@@ -1,6 +1,6 @@
 ---
 description: >-
-  With just a few clicks you are ready using temporary channels in your Discord
+  With just a few clicks you are ready to use temporary channels in your Discord
   server.
 icon: bullseye-arrow
 ---
@@ -26,12 +26,12 @@ Run the command `/setup` and click on <img src="../.gitbook/assets/Setup TempVoi
 A voice channel that creates a temporary channel when you join it. You can set up multiple Creators by repeating the steps above. Each Creator has its own configuration for creating temporary channels.
 
 {% hint style="info" icon="gear-complex" %}
-You can have multiple ➕ **Creator Channels**, each of which can be configured individually to create temporary channels in different ways.
+You can have multiple ➕ **Creator Channels**, each of which can be configured individually in the [Dashboard](https://tempvoice.xyz/dashboard) to create temporary channels in different ways. The Free plan includes 2 Creator Channels. [TempVoice Premium](https://tempvoice.xyz/premium) unlocks unlimited Creator Channels.
 {% endhint %}
 
 ## ✨ Interface Message
 
-A text channel in which the bot sends an [interface](../commands/interface-message.md) which is an alternative to the [/voice](../commands/voice/) commands and used to customize a temporary channel.
+A text channel in which the bot sends an [interface](../commands/interface-message.md). Its buttons are an alternative to the [/voice](../commands/voice/) commands for customizing a temporary channel.
 
 {% hint style="info" icon="gear-complex" %}
 You can have unlimited ✨ **Interface Messages**. These can either be in a separate channel or sent directly in the chat of a temporary channel with: [Temporary Channel Greeting](../settings/others/greeting.md).

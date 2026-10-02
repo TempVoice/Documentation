@@ -5,7 +5,7 @@ description: >-
 icon: robot
 ---
 
-# How can use I use TempVoice Premium™?
+# How do I use TempVoice Premium™?
 
 No matter which Premium plan you subscribe to, if you purchased it on the **TempVoice website** (rather than through Discord), you'll need to **activate Premium** on the server where you want to use its benefits.
 
@@ -27,11 +27,11 @@ Make sure you click "Save Changes" afterwards.
 
 If you subscribed to the **Your Own Branding™** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon and banner of the bot.
 
-Furthermore, your bot has access to all premium benefits + excusive features, like the [Activity Placeholders](placeholders/activity_name.md) and _Reserving Channels (Coming soon)_.
+Furthermore, your bot has access to all premium benefits plus exclusive features, like the [Activity Placeholders](placeholders/activity_name.md) and _Reserving Channels (Coming soon)_.
 
 ### Setup your bot
 
-To get started, you have to provide us a [Discord bot token](premium.md#token) to start the installation. This process takes approximately 2 minutes.
+To get started, you have to provide us a Discord bot token (see **How to get a Bot Token?** below) to start the installation. This process takes approximately 2 minutes.
 
 <details>
 
@@ -61,19 +61,19 @@ Treat this token like a password, do not share it with anybody.
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
-Once it has been finished, you can invite your bot to your server.
+Once it has finished, you can invite your bot to your server.
 
 {% hint style="warning" icon="gear-complex" %}
 **Have you used the public TempVoice bot before?**
 
 The public TempVoice bot has to be kicked from the server on which you invited your bot.
 
-All **Creator Channels** you had with the public TempVoice bot will continue work. Just the interfaces have to be recreated using `/setup` -> `New Interface`.
+All **Creator Channels** you had with the public TempVoice bot will continue to work. Just the interfaces have to be recreated using `/setup` -> `New Interface`.
 {% endhint %}
 
-### Has you Discord Server more then 10.000 Members? <a href="#privileged-intents" id="privileged-intents"></a>
+### Does your Discord server have more than 10,000 members? <a href="#privileged-intents" id="privileged-intents"></a>
 
-If you are using your bot in a Discord server with **more then 10.000 members**, then you might be informed by Discord that you need to apply to **Privileged Intents**.
+If you are using your bot in a Discord server with **more than 10,000 members**, then you might be informed by Discord that you need to apply to **Privileged Intents**.
 
 <details>
 
@@ -81,7 +81,7 @@ If you are using your bot in a Discord server with **more then 10.000 members**,
 
 Visit [https://discord.com/developers/applications](https://discord.com/developers/applications), login with your Discord account and go to your application.
 
-If you see a banner like below, click the **Apply** botton and fill out the asked information.
+If you see a banner like below, click the **Apply** button and fill out the asked information.
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 

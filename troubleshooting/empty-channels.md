@@ -18,9 +18,9 @@ icon: trash-can
 ```
 Dear Discord Support,
 
-I contact you because in my Discord Server is a voice channel which cannot be edited or deleted.
+I am contacting you because my Discord server has a voice channel which cannot be edited or deleted.
 
-I ask you to please resolve this issue.
+Could you please resolve this issue?
 
 Server ID: [your server ID here]
 Channel ID: [channel ID here]

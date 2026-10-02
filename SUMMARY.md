@@ -27,11 +27,13 @@
   * [privacy](commands/voice/privacy.md)
   * [region](commands/voice/region.md)
   * [reset](commands/voice/reset.md)
+  * [status](commands/voice/status.md)
   * [thread](commands/voice/thread.md)
   * [transfer](commands/voice/transfer.md)
   * [waiting](commands/voice/waiting.md)
 * [/find](commands/find.md)
 * [/join](commands/join.md)
+* [Apps Commands](commands/apps.md)
 
 ## DASHBOARD SETTINGS <a href="#settings" id="settings"></a>
 
@@ -49,7 +51,7 @@
 * [Moderation](settings/moderation/README.md)
   * [Toggle Features](settings/moderation/features.md)
   * [Moderation Log](settings/moderation/log.md)
-  * [Restore Owner Settings](settings/moderation/restore.md)
+  * [Recover Owner Settings](settings/moderation/restore.md)
   * [Censor Channel Names](settings/moderation/censor.md)
   * [Age Restriction for In-Voice Chat](settings/moderation/age_restriction.md)
   * [Vote Kick Percentage](settings/moderation/vote-kick-percentage.md)
@@ -60,7 +62,7 @@
 
 ## explanations <a href="#help" id="help"></a>
 
-* [How can use I use TempVoice Premium™?](help/premium.md)
+* [How do I use TempVoice Premium™?](help/premium.md)
 * [How to prevent @everyone access to temporary channels?](help/everyone-access.md)
 * [How to sync permissions to temporary channels?](help/sync-permissions/README.md)
   * [How to give my team access to all channels?](help/sync-permissions/allow-roles-access.md)
@@ -72,6 +74,7 @@
   * [{OWNER\_USERNAME}](help/placeholders/owner_username.md)
   * [{OWNER\_NICKNAME}](help/placeholders/owner_nickname.md)
   * [{OWNER\_MENTION}](help/placeholders/owner_mention.md)
+  * [{OWNER\_ID}](help/placeholders/owner_id.md)
   * [{OWNER\_CREATED}](help/placeholders/owner_created.md)
   * [{OWNER\_JOINED}](help/placeholders/owner_joined.md)
   * [{NUMBER}](help/placeholders/number.md)
@@ -84,7 +87,7 @@
   * [{GUILD\_ID}](help/placeholders/guild_id.md)
   * [{CHANNEL\_ID}](help/placeholders/channel_id.md)
   * [{ACTIVITY\_NAME}](help/placeholders/activity_name.md)
-  * [{ACTIVITY\_MAJORITY\_NAME}](help/placeholders/activity_majority_name.md)
+  * [{ACTIVITY\_NAME\_MAJORITY}](help/placeholders/activity_majority_name.md)
   * [{ACTIVITY\_DETAILS}](help/placeholders/activity_details.md)
   * [{ACTIVITY\_STATE}](help/placeholders/activity_state.md)
   * [{ACTIVITY\_EMOJI}](help/placeholders/activity_emoji.md)

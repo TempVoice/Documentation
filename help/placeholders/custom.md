@@ -13,7 +13,7 @@ description: >-
 ✨・{CUSTOM}
 ```
 
-If the channel is locked, unlocked or hidden:
+If the owners set their names to `Pls join me`, `I am bored` or `We play mc`:
 
 ```
 ✨・Pls join me
@@ -29,7 +29,7 @@ If the channel is locked, unlocked or hidden:
 
 ## Customize the placeholder
 
-If the user has no custom name set it will use the users nickname.
+If the owner hasn't set a name, `{OWNER_NICKNAME}'s Channel` is used.
 
 This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change its defaults.
 

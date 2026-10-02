@@ -15,7 +15,7 @@ icon: lock
 
 ## Set permission in category
 
-2. All permissions you set in the category for roles will be applied and synced to temporary channels. Deny `View Channels` or `Connect` permission to avoid that role to join temporary channels.
+2. All permissions you set in the category for roles will be applied and synced to temporary channels. Deny `View Channels` or `Connect` permission to prevent that role from joining temporary channels.
 
 {% hint style="warning" %}
 **Permissions for @everyone**
@@ -29,7 +29,7 @@ If your Discord server has a verification system and you want to prevent @everyo
 
 ## Block creating own channels
 
-You should also make sure that users with that role are not able to create own temporary channels.
+You should also make sure that users with that role are not able to create their own temporary channels.
 
 This can be very easily done by directly editing the permissions for that role in the creator channel: Set "Connect" or "View Channel" to <img src="../../.gitbook/assets/Off.png" alt="" data-size="line">
 

@@ -16,9 +16,9 @@ This default channel user limit can be changed by the temporary channel owner wi
 
 Disable it under [Toggle Features](../moderation/features.md).
 
-### Don’t want channels keep their user limit after recreation?
+### Don’t want channels to keep their user limit after recreation?
 
-Disable it under [Restore Owner Settings](../moderation/restore.md).
+Disable it under [Recover Owner Settings](../moderation/restore.md).
 
 ***
 

@@ -15,4 +15,4 @@ icon: badge-check
 
 After you defined your roles, a newly created temporary channel will set the permission of those roles by default for `Connect` and `View Channels` to <img src="../.gitbook/assets/On.png" alt="" data-size="line">.
 
-On the other side the permission of `@everyone` for `View Channels` will be set to <img src="../.gitbook/assets/Off.png" alt="" data-size="line">. This prevents users without one of those roles to use temporary channels.
+On the other side the permission of `@everyone` for `View Channels` will be set to <img src="../.gitbook/assets/Off.png" alt="" data-size="line">. This prevents users without one of those roles from using temporary channels.

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Replaced by the DD/MM/YYYY date where the owner of the temporary channel
+  Replaced by the date (D/M/YYYY) when the owner of the temporary channel
   created their Discord account.
 ---
 
@@ -12,8 +12,8 @@ description: >-
 🐭・Created: {OWNER_CREATED}
 ```
 
-If the owner of the temporary channels created their account on 22/08/2017:
+If the owner of the temporary channel created their account on August 22, 2017:
 
 ```
-🐭・Created: 22/08/2017
+🐭・Created: 22/8/2017
 ```

@@ -13,3 +13,5 @@ description: >-
 <figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p>After</p></figcaption></figure>
 
 This overwrites the default [Temporary Channel User Limit](../../settings/overview/limit.md). The changed user limit will be saved and applied to the next temporary channel the user creates.
+
+The user limit has to be within the [User Limit Range](../../settings/overview/limit.md#range) set by the server admins.

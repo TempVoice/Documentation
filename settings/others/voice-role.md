@@ -26,3 +26,7 @@ This can be useful if you want to give access to specific text channels while be
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="75"><figcaption></figcaption></figure>
 
 <p align="center">Only the owner of the temporary channel will get the 'Voice Role'.</p>
+
+{% hint style="warning" %}
+Users lose the role when they leave a temporary channel, even if they had it before. Pick a role that is used for nothing else.
+{% endhint %}

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Users will need to confirm that they are of over the legal age to see the
-  messages in this channel. Age-restricted channels are exempt from Discord
+  Users will need to confirm that they are of legal age to see the messages
+  in this channel. Age-restricted channels are exempt from Discord
   explicit content filter.
 ---
 

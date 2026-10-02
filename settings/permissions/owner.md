@@ -13,5 +13,9 @@ description: >-
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" icon="gear-complex" %}
-It is not recommended to give channel owners the power to "Manage Permissions". The chance is high they going to break the bot's functionality by editing the wrong permissions.
+Giving channel owners **Manage Permissions** is not recommended. Owners can easily break TempVoice by editing the wrong permissions.
+{% endhint %}
+
+{% hint style="info" %}
+Granting **Move Members** also lets owners [kick moderators](../../commands/voice/user/kick.md#immune) out of their temporary channel.
 {% endhint %}

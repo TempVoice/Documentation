@@ -7,9 +7,13 @@ description: Replaced by the guild ID of the Discord server.
 ## Example
 
 ```
-This Server has this ID: {GUILD_ID}
+This server has the ID: {GUILD_ID}
 ```
 
 ```
-This Server has this ID: 904322845646135317
+This server has the ID: 904322845646135317
 ```
+
+{% hint style="info" %}
+Only available in the [Temporary Channel Greeting](../../settings/others/greeting.md).
+{% endhint %}

@@ -1,5 +1,5 @@
 ---
-description: Replaced by the heighted role from the owner of a temporary channel.
+description: Replaced by the highest role of the temporary channel owner.
 ---
 
 # {ROLE\_HIGHEST}
@@ -18,7 +18,7 @@ description: Replaced by the heighted role from the owner of a temporary channel
 
 ## Customize the placeholder
 
-By default, the placeholder uses nickname from the user of the temporary channel.
+If the owner has no roles, the placeholder is replaced by `{OWNER_NICKNAME} has no roles`.
 
 This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change its defaults.
 

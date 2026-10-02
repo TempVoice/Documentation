@@ -1,5 +1,5 @@
 ---
-description: This is caused because you miss "Use Voice Activity" permission.
+description: This popup shows up when you are missing the "Use Voice Activity" permission.
 icon: microphone
 ---
 

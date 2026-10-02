@@ -14,7 +14,11 @@ description: Choose the category where temporary channels will be created.
 
 ## Fallback Categories <a href="#fallbacks" id="fallbacks"></a>
 
-A Discord category is limited to 50 channels. If your Discord server needs more temporary channels, you have to set up some fallback categories.
+A Discord category is limited to 50 channels. If your Discord server needs more temporary channels, you have to set up some fallback categories. New temporary channels are created in a fallback category once the primary category is full.
+
+{% hint style="info" icon="crown" %}
+Fallback categories require [TempVoice Premium](https://tempvoice.xyz/premium).
+{% endhint %}
 
 1.  Click the `+` button.
 

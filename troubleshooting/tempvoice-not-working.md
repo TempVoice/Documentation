@@ -9,13 +9,13 @@ icon: heart-crack
 
 ## Check if TempVoice is online <a href="#check-the-status-page-and-may-be-patient" id="check-the-status-page-and-may-be-patient"></a>
 
-See if Discord has announced any outage or has an increased api latency here [https://discordstatus.com/](https://discordstatus.com/). You can also join the support server [https://discord.gg/tempvoice](https://discord.gg/tempvoice) and look in [#notification](https://discordapp.com/channels/904322845646135317/916444589622177902) for maintaince/outage announcements.
+See if Discord has announced any outage or increased API latency at [https://discordstatus.com/](https://discordstatus.com/). You can also join the support server [https://discord.gg/tempvoice](https://discord.gg/tempvoice) and look in [#notification](https://discordapp.com/channels/904322845646135317/916444589622177902) for maintenance and outage announcements.
 
 ***
 
 ## Check your DMs <a href="#turn-on-your-dms-and-do-not-block-tempvoice" id="turn-on-your-dms-and-do-not-block-tempvoice"></a>
 
-TempVoice sends you a notification when there was an error creating a temporary channel. Make sure you have DMs enabled and didn't blocked TempVoice.
+TempVoice sends you a DM when there was an error creating a temporary channel. Make sure you have DMs enabled and haven't blocked TempVoice.
 
 ***
 

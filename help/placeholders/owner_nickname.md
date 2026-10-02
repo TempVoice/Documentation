@@ -10,7 +10,7 @@ description: Replaced by the nickname of the temporary channel owner.
 🐶・{OWNER_NICKNAME}
 ```
 
-If the owner of the channel nickname is **Jonah** or **Juu** on Discord:
+If the owner's nickname on the server is **Jonah** or **Juu**:
 
 ```
 🐶・Jonah
@@ -19,3 +19,5 @@ If the owner of the channel nickname is **Jonah** or **Juu** on Discord:
 ```
 🐶・Juu
 ```
+
+If the owner has no nickname on the server, their display name is used.

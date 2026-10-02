@@ -19,10 +19,12 @@ description: Automatically censor inappropriate words in temporary channel names
 ### Partial Matching <a href="#partial-matching" id="partial-matching"></a>
 
 Use `*` at the beginning or end of a word for partial replacement.\
-**Just like Discords Automod**.
+**Just like Discord's AutoMod**.
 
 <pre><code>[CENSOR] *pet, java*, *leg*, get
 <strong>
 </strong><strong>Carpet | JavaScript | Wholegrain | Together
 </strong>****** | ********** | ********** | to***her
 </code></pre>
+
+The censor also applies to [/voice status](../../commands/voice/status.md).

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Add a user to your block list and prevent them from joining your temporary
-  channel.
+  Add a user to your block list. Blocked users are kicked from your temporary
+  channel and can't join again, even while it's public.
 ---
 
 # block
@@ -12,5 +12,7 @@ description: >-
 
 {% hint style="info" %}
 You can block up to 25 users and deny them access to your temporary channel.\
-_&#x43;urrently this limit cannot be increased due to Discord performant issues._
+_This limit can't be increased, because too many permission overwrites slow Discord down._ [Learn more](../../../faq/limits.md#tempvoice)
 {% endhint %}
+
+Moderators can't be blocked. See [Why some users get ignored/skipped?](../../../faq/skipped.md#moderator)

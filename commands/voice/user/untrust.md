@@ -1,7 +1,7 @@
 ---
 description: >-
   Remove a user from your trusted list and they will only be able to join your
-  temporary channel when it is open.
+  temporary channel while it is public.
 ---
 
 # untrust

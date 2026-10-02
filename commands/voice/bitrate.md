@@ -12,6 +12,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption><p>After</p></figcaption></figure>
 
+The bitrate can be set between **8** and **384 kbps**, but Discord caps it based on the server's boost level. See the [Audio Bitrate FAQ](https://support.discord.com/hc/en-us/articles/11635925354775-Audio-Bitrate-FAQ) for the limits.
+
 {% hint style="info" %}
 This command is available for 12 hours after voting on [Top.gg](https://top.gg/bot/762217899355013120/vote). After that, you’ll need to vote again. With [TempVoice Premium](https://tempvoice.xyz/premium), you don’t need to vote at all.
 {% endhint %}

@@ -13,5 +13,5 @@ description: >-
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The position of channels might become unpredictable, expect not fully accurate behaviour.
+Discord doesn't always keep channel positions exactly as requested, so the position can be slightly off when many channels are created or deleted at once.
 {% endhint %}

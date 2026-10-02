@@ -1,7 +1,7 @@
 ---
 description: >-
-  Remove a user from your blocklist and allow them to join again if you
-  temporary channel is open.
+  Remove a user from your blocklist and allow them to join again while your
+  temporary channel is public.
 ---
 
 # unblock

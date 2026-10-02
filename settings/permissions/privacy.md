@@ -18,6 +18,6 @@ This default channel privacy can be changed by the temporary channel owner with 
 
 Disable it under [Toggle Features](../moderation/features.md).
 
-### Don’t want channels keep their privacy mode after recreation?
+### Don’t want channels to keep their privacy mode after recreation?
 
-Disable it under [Restore Owner Settings](../moderation/restore.md).
+Disable it under [Recover Owner Settings](../moderation/restore.md).

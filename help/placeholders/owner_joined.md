@@ -1,6 +1,6 @@
 ---
 description: >-
-  Replaced by the DD/MM/YYYY date where the owner of the temporary channel
+  Replaced by the date (D/M/YYYY) when the owner of the temporary channel
   joined the Discord server.
 ---
 
@@ -9,11 +9,11 @@ description: >-
 ## Example
 
 ```
-🐹・Joined: {OWNER_CREATED}
+🐹・Joined: {OWNER_JOINED}
 ```
 
-If the owner of the temporary channel joined the server on 22/08/2017:
+If the owner of the temporary channel joined the server on August 22, 2017:
 
 ```
-🐹・Joined: 22/08/2017
+🐹・Joined: 22/8/2017
 ```

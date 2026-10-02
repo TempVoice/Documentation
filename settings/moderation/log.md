@@ -13,6 +13,17 @@ icon: crown
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
+The log includes:
+
+* Created and deleted temporary channels, including force deletes.
+* Created and deleted temporary chats and waiting rooms.
+* Changes to the name, user limit, region and bitrate.
+* Claims and ownership transfers.
+* Locking, unlocking, hiding and unhiding channels.
+* Trusted, untrusted, blocked, unblocked, invited, kicked and vote kicked users.
+
+For security reasons, the saved webhook URL is never shown again. Paste a new URL to replace it, or delete the webhook to stop logging.
+
 ***
 
 ## How to get a Discord Webhook URL?

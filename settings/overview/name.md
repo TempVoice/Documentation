@@ -16,9 +16,9 @@ This default channel name can be changed by the temporary channel owner with [/v
 
 Disable it under [Toggle Features](../moderation/features.md).
 
-### Don’t want channels keep their name after recreation?
+### Don’t want channels to keep their name after recreation?
 
-Disable it under [Restore Owner Settings](../moderation/restore.md).
+Disable it under [Recover Owner Settings](../moderation/restore.md).
 
 {% hint style="info" %}
 Try out [Placeholders](../../help/placeholders/) to have dynamic temporary channel names!
