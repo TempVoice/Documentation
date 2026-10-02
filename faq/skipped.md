@@ -26,6 +26,10 @@ The selected user is a bot account. Bots can't accept invites, receive DMs, or b
 
 The selected user holds a server permission that makes them immune to channel moderation (Ban Members, Kick Members or Timeout Members). Moderators can't be blocked or disconnected from a temporary voice channel. Raised by: block, kick/disconnect.
 
+## Is channel owner <a href="#owner" id="owner"></a>
+
+The selected user is the owner of the channel and is immune. Raised by: vote kicks
+
 ## Has not accepted the server rules <a href="#rules" id="rules"></a>
 
 The selected user is still in Discord's membership screening ("pending") state. Until they accept the rules they aren't a full member and can't be invited or trusted. Raised by: invite, trust.

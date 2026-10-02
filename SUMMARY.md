@@ -52,6 +52,7 @@
   * [Restore Owner Settings](settings/moderation/restore.md)
   * [Censor Channel Names](settings/moderation/censor.md)
   * [Age Restriction for In-Voice Chat](settings/moderation/age_restriction.md)
+  * [Vote Kick Percentage](settings/moderation/vote-kick-percentage.md)
 * [Others](settings/others/README.md)
   * [Temporary Channel Greeting](settings/others/greeting.md)
   * [TempVoice Interface for In-Voice Chat](settings/others/interface.md)
