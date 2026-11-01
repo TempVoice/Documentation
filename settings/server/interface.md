@@ -5,7 +5,7 @@ description: >-
 icon: sparkles
 ---
 
-# Customize the Interface
+# Customize and Send the Interface
 
 > **Where do I find this?**
 >

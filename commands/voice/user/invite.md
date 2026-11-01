@@ -4,7 +4,7 @@ description: >-
   and can join even while your channel is locked or hidden.
 ---
 
-# invite
+# invite (direct message)
 
 <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ description: >-
 
 * Invited users keep their access until your channel is recreated. [Kicking](kick.md) or [blocking](block.md) them takes it back.
 * The user has to allow DMs from the server. With the buttons on an invite, users can also block invites from you or all invites from TempVoice.
-* You can send up to **5 invites per hour**.
+* You can send up to **5 invites per hour**, and you can only invite the same user once until you [kick](kick.md), [block](block.md) or [untrust](untrust.md) them.
 * Some users are skipped, for example bots or blocked users. See [Why some users get ignored/skipped?](../../../faq/skipped.md)
 
 {% hint style="info" %}

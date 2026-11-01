@@ -4,7 +4,7 @@ description: >-
   a message to a channel with personalized message and invite link.
 ---
 
-# invite
+# invite (public chat)
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 

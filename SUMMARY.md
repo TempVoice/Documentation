@@ -5,7 +5,7 @@
 * [Welcome](README.md)
 * [Quickstart](getting-started/setup.md)
 
-## DISCORD COMMANDS <a href="#commands" id="commands"></a>
+## Discord Commands <a href="#commands" id="commands"></a>
 
 * [Interface Message](commands/interface-message.md)
 * [/voice](commands/voice/README.md)
@@ -15,12 +15,12 @@
     * [block](commands/voice/user/block.md)
     * [unblock](commands/voice/user/unblock.md)
     * [kick](commands/voice/user/kick.md)
-    * [invite](commands/voice/user/invite.md)
+    * [invite (direct message)](commands/voice/user/invite.md)
   * [bitrate](commands/voice/bitrate.md)
   * [claim](commands/voice/claim.md)
   * [delete](commands/voice/delete.md)
   * [info](commands/voice/info.md)
-  * [invite](commands/voice/invite.md)
+  * [invite (public chat)](commands/voice/invite.md)
   * [limit](commands/voice/limit.md)
   * [name](commands/voice/name.md)
   * [password](commands/voice/password.md)
@@ -37,12 +37,12 @@
 * [/help](commands/help.md)
 * [Apps Commands](commands/apps.md)
 
-## DASHBOARD SETTINGS <a href="#settings" id="settings"></a>
+## Dashboard Settings <a href="#settings" id="settings"></a>
 
 * [Server Settings](settings/server/README.md)
   * [TempVoice Appearance](settings/server/appearance.md)
   * [Creator Channels](settings/server/creators.md)
-  * [Customize the Interface](settings/server/interface.md)
+  * [Customize and Send the Interface](settings/server/interface.md)
   * [Advanced](settings/server/advanced/README.md)
     * [Temporary Channel Pooling](settings/server/advanced/pooling.md)
 * [Creator Settings](settings/creator/README.md)
@@ -69,7 +69,7 @@
     * [TempVoice Interface for In-Voice Chat](settings/creator/others/interface.md)
     * [Temporary Voice Role](settings/creator/others/voice-role.md)
 
-## explanations <a href="#help" id="help"></a>
+## Explanations <a href="#help" id="help"></a>
 
 * [How do I use TempVoice Premium™?](help/premium.md)
 * [How to prevent @everyone access to temporary channels?](help/everyone-access.md)
@@ -114,6 +114,6 @@
 * [TempVoice not working](troubleshooting/tempvoice-not-working.md)
 * [Empty temporary channels](troubleshooting/empty-channels.md)
 
-## contribute
+## Contribute
 
 * [Translate TempVoice™](contribute/translate.md)
