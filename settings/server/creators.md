@@ -15,7 +15,7 @@ Each Creator Channel has its own configuration. Select one to open its [Creator 
 
 ## Add a Creator Channel
 
-Click on `Add a new Creator!` and confirm with `Create`. This creates a new channel on your Discord server. You can also use [/setup](../../commands/setup.md) -> `New Creator`.
+Click on `Add a new Creator!` and confirm with `Create`. This creates a new channel on your Discord server. You can also use `/setup` -> `New Creator`.
 
 {% hint style="info" icon="crown" %}
 The Free plan includes **2 Creator Channels**. [TempVoice Premium](https://tempvoice.xyz/premium) unlocks unlimited Creator Channels.

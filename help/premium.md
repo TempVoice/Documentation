@@ -208,7 +208,7 @@ On the [Premium page](https://tempvoice.xyz/premium), you can:
 ## What happens when Premium ends? <a href="#expired" id="expired"></a>
 
 * Creator Channels above the [free limit](../faq/limits.md#tempvoice) stop working until you reactivate Premium or delete enough of them.
-* New interfaces use the default design. Older interfaces that were sent through a webhook stop working until you send a new one with [/setup](../commands/setup.md) -> `New Interface`.
+* New interfaces use the default design. Older interfaces that were sent through a webhook stop working until you send a new one with `/setup` -> `New Interface`.
 * The Moderation Log and Fallback Categories stop working.
 * The Temporary Voice Role and Interface for In-Voice Chat stop working, except on Creator Channels created before December 1, 2025.
 

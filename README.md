@@ -31,6 +31,6 @@ As the owner, you can customize and moderate the channel using the [/voice](comm
 ### Where do I start?
 
 * New here? Follow the [Quickstart](getting-started/setup.md).
-* Want to manage your channel? Use the [/voice](commands/voice/) commands, the [Interface](commands/interface-message.md) or the [Apps commands](commands/apps.md).
+* Want to manage your channel? Use the [/voice](commands/voice/) commands or the [Interface](commands/interface-message.md).
 * Setting up your server? Configure your [server](settings/server/) and every Creator Channel in the [Dashboard](https://tempvoice.xyz/dashboard).
 * Something isn't working? Check [TempVoice not working](troubleshooting/tempvoice-not-working.md).

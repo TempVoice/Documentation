@@ -33,9 +33,6 @@
   * [waiting](commands/voice/waiting.md)
 * [/find](commands/find.md)
 * [/join](commands/join.md)
-* [/setup](commands/setup.md)
-* [/help](commands/help.md)
-* [Apps Commands](commands/apps.md)
 
 ## Dashboard Settings <a href="#settings" id="settings"></a>
 

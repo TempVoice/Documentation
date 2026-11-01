@@ -32,3 +32,6 @@ redirects:
   settings/advanced: settings/server/advanced/README.md
   settings/advanced/pooling: settings/server/advanced/pooling.md
   commands/voice/lfp: commands/voice/invite.md
+  commands/apps: commands/voice/README.md
+  commands/setup: getting-started/setup.md
+  commands/help: README.md

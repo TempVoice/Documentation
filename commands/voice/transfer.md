@@ -9,7 +9,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-The new owner has to be connected to your temporary channel and can't be a bot. You can also right-click a user and use **Apps** -> [Transfer Ownership](../apps.md).
+The new owner has to be connected to your temporary channel and can't be a bot. You can also right-click a user and use **Apps** -> **Transfer Ownership**.
 
 Moderators with the **Ban Members**, **Kick Members** or **Timeout Members** permission can transfer channels they don't own.
 

@@ -15,7 +15,7 @@ Visit [https://tempvoice.xyz/invite](https://tempvoice.xyz/invite) to invite <im
 
 ## Initial Setup
 
-You need the **Manage Server** permission for this step. Run the command [/setup](../commands/setup.md) and click on <img src="../.gitbook/assets/Setup TempVoice.png" alt="" data-size="line">
+You need the **Manage Server** permission for this step. Run the command `/setup` and click on <img src="../.gitbook/assets/Setup TempVoice.png" alt="" data-size="line">
 
 <figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

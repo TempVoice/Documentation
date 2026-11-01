@@ -38,7 +38,9 @@ When a user tries a feature they can't use, TempVoice tells them whether it was 
 | Changing Channel Region           | [/voice region](../../../commands/voice/region.md)                                                       |
 | Changing Channel Bitrate          | [/voice bitrate](../../../commands/voice/bitrate.md)                                                     |
 
-**Disconnect** and **Send Invite** are [Apps commands](../../../commands/apps.md) and follow the same feature as their `/voice` counterpart.
+You can find **Disconnect** and **Send Invite** by right-clicking a user and opening **Apps**. They follow the same feature as their `/voice` counterpart.
+
+**Disconnect** only works while the channel is locked, hidden or has a user limit, and it skips moderators like an [instant kick](../../../commands/voice/user/kick.md#instant). Unlike an instant kick, it only disconnects the user: they stay on the trusted list and keep any access they have.
 
 Turning off **Locking Channel** or **Hiding Channel** clears the trusted and blocked users that owners have saved for this Creator Channel.
 

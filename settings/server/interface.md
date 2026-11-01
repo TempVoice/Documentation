@@ -37,7 +37,7 @@ The design options require [TempVoice Premium](https://tempvoice.xyz/premium). W
 
 Save your changes first. Then, under `Send Interface`, select a text channel and send your interface. We recommend a channel where no one else can write. Channels that TempVoice can't send messages to are locked.
 
-You can also use [/setup](../../commands/setup.md) -> `New Interface` to send it to the channel you are in, or send it to the in-voice chat of every new temporary channel with [TempVoice Interface for In-Voice Chat](../creator/others/interface.md).
+You can also use `/setup` -> `New Interface` to send it to the channel you are in, or send it to the in-voice chat of every new temporary channel with [TempVoice Interface for In-Voice Chat](../creator/others/interface.md).
 
 {% hint style="warning" %}
 Saving doesn't change interfaces that were already sent. Send your interface again after you changed it, and delete the old message.
