@@ -6,3 +6,29 @@ structure:
 
 redirects:
   premium/customize-interface: settings/server/interface.md
+  config/creator/overview/category: settings/creator/overview/category.md
+  settings/overview: settings/creator/overview/README.md
+  settings/overview/name: settings/creator/overview/name.md
+  settings/overview/limit: settings/creator/overview/limit.md
+  settings/overview/category: settings/creator/overview/category.md
+  settings/overview/bitrate: settings/creator/overview/bitrate.md
+  settings/overview/position: settings/creator/overview/position.md
+  settings/permissions: settings/creator/permissions/README.md
+  settings/permissions/access-roles: settings/creator/permissions/access-roles.md
+  settings/permissions/sync: settings/creator/permissions/sync.md
+  settings/permissions/privacy: settings/creator/permissions/privacy.md
+  settings/permissions/owner: settings/creator/permissions/owner.md
+  settings/moderation: settings/creator/moderation/README.md
+  settings/moderation/features: settings/creator/moderation/features.md
+  settings/moderation/log: settings/creator/moderation/log.md
+  settings/moderation/restore: settings/creator/moderation/restore.md
+  settings/moderation/censor: settings/creator/moderation/censor.md
+  settings/moderation/age_restriction: settings/creator/moderation/age_restriction.md
+  settings/moderation/vote-kick-percentage: settings/creator/moderation/vote-kick-percentage.md
+  settings/others: settings/creator/others/README.md
+  settings/others/greeting: settings/creator/others/greeting.md
+  settings/others/interface: settings/creator/others/interface.md
+  settings/others/voice-role: settings/creator/others/voice-role.md
+  settings/advanced: settings/server/advanced/README.md
+  settings/advanced/pooling: settings/server/advanced/pooling.md
+  commands/voice/lfp: commands/voice/invite.md

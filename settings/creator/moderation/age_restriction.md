@@ -11,4 +11,4 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Moderation` tab -> `Age Restriction for In-Voice Chat`&#x20;
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Owner Permissions`
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 You can grant these permissions:
 
@@ -23,5 +23,5 @@ Giving channel owners **Manage Permissions** is not recommended. Owners can easi
 {% endhint %}
 
 {% hint style="info" %}
-Granting **Disconnect Members** (Discord's **Move Members** permission) also lets owners [kick moderators](../../commands/voice/user/kick.md#immune) out of their temporary channel.
+Granting **Disconnect Members** (Discord's **Move Members** permission) also lets owners [kick moderators](../../../commands/voice/user/kick.md#immune) out of their temporary channel.
 {% endhint %}

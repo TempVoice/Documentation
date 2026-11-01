@@ -13,10 +13,10 @@ icon: robot
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: | :---------------: |
 | [Custom Appearance](../settings/server/appearance.md) and [Custom Interfaces](../settings/server/interface.md#design)                                                        |         ✓         |         ✓         |
 | No vote-locked [commands](../commands/voice/)                                                                                                                                |         ✓         |         ✓         |
-| Unlimited [Creator Channels](../settings/server/creators.md) and [Fallback Categories](../settings/overview/category.md#fallbacks)                                           |         ✓         |         ✓         |
-| [Moderation Log](../settings/moderation/log.md), [Temporary Voice Role](../settings/others/voice-role.md) and [Interface for In-Voice Chat](../settings/others/interface.md) |         ✓         |         ✓         |
+| Unlimited [Creator Channels](../settings/server/creators.md) and [Fallback Categories](../settings/creator/overview/category.md#fallbacks)                                           |         ✓         |         ✓         |
+| [Moderation Log](../settings/creator/moderation/log.md), [Temporary Voice Role](../settings/creator/others/voice-role.md) and [Interface for In-Voice Chat](../settings/creator/others/interface.md) |         ✓         |         ✓         |
 | Your own separately hosted bot with dedicated limits                                                                                                                         |                   |         ✓         |
-| [Activity Placeholders](placeholders/activity_name.md) and [Temporary Channel Pooling](../settings/advanced/pooling.md)                                                      |                   |         ✓         |
+| [Activity Placeholders](placeholders/activity_name.md) and [Temporary Channel Pooling](../settings/server/advanced/pooling.md)                                                      |                   |         ✓         |
 
 ## Setup
 
@@ -40,7 +40,7 @@ Make sure you click "Save Changes" afterwards.
 
 If you subscribed to the **Your Own Instance** premium plan, you get your own instance of TempVoice, which lets you customize the username, icon, banner, about me and status of the bot.
 
-Furthermore, your bot has access to all premium benefits plus exclusive features, like the [Activity Placeholders](placeholders/activity_name.md) and [Temporary Channel Pooling](../settings/advanced/pooling.md).
+Furthermore, your bot has access to all premium benefits plus exclusive features, like the [Activity Placeholders](placeholders/activity_name.md) and [Temporary Channel Pooling](../settings/server/advanced/pooling.md).
 
 ### Setup your bot
 

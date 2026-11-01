@@ -10,9 +10,9 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Overview` tab -> `Temporary Channel Bitrate` &#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Choose **64kbps** or **Highest possible**. This default channel bitrate can be changed by the temporary channel owner with [/voice bitrate](../../commands/voice/bitrate.md).&#x20;
+Choose **64kbps** or **Highest possible**. This default channel bitrate can be changed by the temporary channel owner with [/voice bitrate](../../../commands/voice/bitrate.md).&#x20;
 
 ### Don’t want users to change the bitrate?
 

@@ -14,7 +14,7 @@ You have to be connected to a temporary channel to use `/voice`. Most subcommand
 * [Trusted users](user/trust.md) can also start a [vote kick](user/kick.md#vote).
 * Moderators can also use [/voice delete](delete.md) and [/voice transfer](transfer.md).
 
-`/voice` doesn't work in channels from a Creator Channel with [Ownerless Mode](../../settings/moderation/features.md#ownerless-mode).
+`/voice` doesn't work in channels from a Creator Channel with [Ownerless Mode](../../settings/creator/moderation/features.md#ownerless-mode).
 
 ## Commands <a href="#commands" id="commands"></a>
 
@@ -27,7 +27,7 @@ You have to be connected to a temporary channel to use `/voice`. Most subcommand
 | [/voice waiting](waiting.md)                | Create a waiting room for join requests                   |       ✓       |
 | [/voice password](password.md)              | Let users join a locked channel with [/join](../join.md)  |       ✓       |
 | [/voice thread](thread.md)                  | Create a temporary text thread                            |       ✓       |
-| [/voice invite](lfp.md)                     | Post an invite to your channel in a public chat           |               |
+| [/voice invite](invite.md)                     | Post an invite to your channel in a public chat           |               |
 | [/voice region](region.md)                  | Change the voice region                                   |       ✓       |
 | [/voice bitrate](bitrate.md)                | Change the audio quality                                  |       ✓       |
 | [/voice info](info.md)                      | Show an overview of your channel                          |       ✓       |
@@ -46,7 +46,7 @@ You have to be connected to a temporary channel to use `/voice`. Most subcommand
 Commands marked with ✓ are available for 12 hours after voting on [Top.gg](https://top.gg/bot/762217899355013120/vote). After that, you'll need to vote again. With [TempVoice Premium](https://tempvoice.xyz/premium), you don't need to vote at all.
 {% endhint %}
 
-Server admins can turn off most of these commands, or limit them to certain roles, with [Toggle Features](../../settings/moderation/features.md).
+Server admins can turn off most of these commands, or limit them to certain roles, with [Toggle Features](../../settings/creator/moderation/features.md).
 
 {% hint style="info" %}
 A user needs **Use Application Command** permission to use this command.

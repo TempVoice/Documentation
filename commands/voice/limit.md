@@ -12,7 +12,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p>After</p></figcaption></figure>
 
-This overwrites the default [Temporary Channel User Limit](../../settings/overview/limit.md). The changed user limit will be saved and applied to the next temporary channel the user creates.
+This overwrites the default [Temporary Channel User Limit](../../settings/creator/overview/limit.md). The changed user limit will be saved and applied to the next temporary channel the user creates.
 
 * You can set a limit between **2** and **99** users. Leave `input` blank to remove the limit.
-* The user limit has to be within the [User Limit Range](../../settings/overview/limit.md#range) set by the server admins.
+* The user limit has to be within the [User Limit Range](../../settings/creator/overview/limit.md#range) set by the server admins.

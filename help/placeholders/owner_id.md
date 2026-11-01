@@ -17,5 +17,5 @@ Owner ID: 123456789012345678
 ```
 
 {% hint style="info" %}
-Only available in the [Temporary Channel Greeting](../../settings/others/greeting.md).
+Only available in the [Temporary Channel Greeting](../../settings/creator/others/greeting.md).
 {% endhint %}

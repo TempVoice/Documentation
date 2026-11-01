@@ -15,5 +15,5 @@ This channel has the ID: 987654321098765432
 ```
 
 {% hint style="info" %}
-Only available in the [Temporary Channel Greeting](../../settings/others/greeting.md).
+Only available in the [Temporary Channel Greeting](../../settings/creator/others/greeting.md).
 {% endhint %}

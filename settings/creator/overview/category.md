@@ -8,7 +8,7 @@ description: Choose the category where temporary channels will be created.
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Overview` tab -> `Temporary Channel Category`&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -22,9 +22,9 @@ Fallback categories require [TempVoice Premium](https://tempvoice.xyz/premium).
 
 1.  Click the `+` button.
 
-    <figure><img src="../../.gitbook/assets/image (73).png" alt="" width="83"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="83"><figcaption></figcaption></figure>
 
 
 2. Select all categories you want to use in case another category is full. Make sure these categories have no permissions set to avoid any permission issues.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

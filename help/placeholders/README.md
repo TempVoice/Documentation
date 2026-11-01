@@ -21,7 +21,7 @@ Using placeholders is easy. Click the `{ }` button and you will see all availabl
 
 ## Where can I use which placeholder?
 
-Placeholders work in three settings: the [Temporary Channel Name](../../settings/overview/name.md), the [Waiting Room Name](../../settings/overview/name.md#waiting-rooms) and the [Temporary Channel Greeting](../../settings/others/greeting.md). Not every placeholder makes sense everywhere:
+Placeholders work in three settings: the [Temporary Channel Name](../../settings/creator/overview/name.md), the [Waiting Room Name](../../settings/creator/overview/name.md#waiting-rooms) and the [Temporary Channel Greeting](../../settings/creator/others/greeting.md). Not every placeholder makes sense everywhere:
 
 | Placeholder                                                                       | Channel Name | Waiting Room Name | Greeting |
 | --------------------------------------------------------------------------------- | :----------: | :---------------: | :------: |
@@ -37,5 +37,5 @@ Placeholders work in three settings: the [Temporary Channel Name](../../settings
 | [{ACTIVITY\_...}](activity_name.md) (Your Own Instance only)                     |       ✓      |                   |          |
 
 {% hint style="info" %}
-Channel names are cut off after 100 characters, and words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored after the placeholders are replaced.
+Channel names are cut off after 100 characters, and words blocked by [Censor Channel Names](../../settings/creator/moderation/censor.md) are censored after the placeholders are replaced.
 {% endhint %}

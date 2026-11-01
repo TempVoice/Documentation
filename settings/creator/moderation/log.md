@@ -15,7 +15,7 @@ icon: crown
 The Moderation Log requires [TempVoice Premium](https://tempvoice.xyz/premium).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 The log includes:
 
@@ -34,32 +34,32 @@ For security reasons, the saved webhook URL is never shown again. Paste a new UR
 
 1. Click on the edit icon of a text channel.
 
-<figure><img src="../../.gitbook/assets/image (27) (1).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 ***
 
 2. Go to `Integrations`.
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt="" width="162"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt="" width="162"><figcaption></figcaption></figure>
 
 ***
 
 3. Click on `Webhooks`.
 
-<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 4. Click on `New Webhook`.
 
-<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 5. Click on the new webhook which popped up below `New Webhook` button and click on\
    `Copy Webhook URL`
 
-<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Treat the Webhook URL like a password and **do not share it with anyone** else!

@@ -16,7 +16,7 @@ description: >-
 * Setting a password also locks your channel if it isn't locked yet.
 * Share it with your friends. They enter it with [/join](../join.md) to get access. [Blocked](user/block.md) users can't use it.
 * Use the command without a password to remove it. Your channel stays locked.
-* You can only set a password if the **Locking Channel** feature in [Toggle Features](../../settings/moderation/features.md) is available to you.
+* You can only set a password if the **Locking Channel** feature in [Toggle Features](../../settings/creator/moderation/features.md) is available to you.
 
 {% hint style="info" %}
 This command is available for 12 hours after voting on [Top.gg](https://top.gg/bot/762217899355013120/vote). After that, you’ll need to vote again. With [TempVoice Premium](https://tempvoice.xyz/premium), you don’t need to vote at all.

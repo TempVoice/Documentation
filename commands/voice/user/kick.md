@@ -52,7 +52,7 @@ The user is kicked as soon as enough voters voted **yes**, which also takes them
 {% endstep %}
 {% endstepper %}
 
-The number of votes needed is the [Vote Kick Percentage](../../../settings/moderation/vote-kick-percentage.md) of the voters, rounded up. Only the owner and trusted users who are connected to the channel are counted. The user being voted on and bots are not counted.
+The number of votes needed is the [Vote Kick Percentage](../../../settings/creator/moderation/vote-kick-percentage.md) of the voters, rounded up. Only the owner and trusted users who are connected to the channel are counted. The user being voted on and bots are not counted.
 
 > **Example:** The owner and 5 trusted users are in the channel and a trusted user is voted on. That leaves 5 voters. With a percentage of 50%, **3** yes votes are needed.
 
@@ -62,10 +62,10 @@ If your vote kick fails or runs out of time, you have to wait **2 minutes** befo
 
 ## Who can't be kicked? <a href="#immune" id="immune"></a>
 
-Members with the **Ban Members**, **Kick Members** or **Timeout Members** permission are moderators and can't be kicked. If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../../../settings/permissions/owner.md), the owner can instantly kick moderators too. Moderators are always protected from vote kicks.
+Members with the **Ban Members**, **Kick Members** or **Timeout Members** permission are moderators and can't be kicked. If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../../../settings/creator/permissions/owner.md), the owner can instantly kick moderators too. Moderators are always protected from vote kicks.
 
 See [Why some users get ignored/skipped?](../../../faq/skipped.md) for every reason a user can be skipped.
 
 {% hint style="success" icon="gear-complex" %}
-Server admins can turn off or restrict both modes to certain roles with [Toggle Features](../../../settings/moderation/features.md): **Kicking/Disconnecting User** and **Starting Vote Kicks**.
+Server admins can turn off or restrict both modes to certain roles with [Toggle Features](../../../settings/creator/moderation/features.md): **Kicking/Disconnecting User** and **Starting Vote Kicks**.
 {% endhint %}

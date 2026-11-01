@@ -10,11 +10,11 @@ description: >-
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Others` tab -> `Temporary Channel Greeting`
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-The message can be up to **1,800 characters** long and can use [Placeholders](../../help/placeholders/). The public TempVoice bot adds a short disclaimer below it.
+The message can be up to **1,800 characters** long and can use [Placeholders](../../../help/placeholders/). The public TempVoice bot adds a short disclaimer below it.
 
 To also send the interface, use [TempVoice Interface for In-Voice Chat](interface.md).
 
@@ -22,12 +22,12 @@ To also send the interface, use [TempVoice Interface for In-Voice Chat](interfac
 
 ***
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt="" width="74"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt="" width="74"><figcaption></figcaption></figure>
 
 <p align="center">The message might trigger a @ping sound</p>
 
 ***
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="74"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt="" width="74"><figcaption></figcaption></figure>
 
 <p align="center">The message will be sent silently without any @ping</p>

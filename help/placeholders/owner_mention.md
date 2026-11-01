@@ -17,5 +17,5 @@ If the owner of the channel is @excordo:
 ```
 
 {% hint style="info" %}
-Mentions only work in the [Temporary Channel Greeting](../../settings/others/greeting.md), not in channel names.
+Mentions only work in the [Temporary Channel Greeting](../../settings/creator/others/greeting.md), not in channel names.
 {% endhint %}

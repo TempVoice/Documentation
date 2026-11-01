@@ -11,7 +11,7 @@ icon: square-plus
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> `Creator Channels`
 
-Each Creator Channel has its own configuration. Select one to open its settings.
+Each Creator Channel has its own configuration. Select one to open its [Creator Settings](../creator/).
 
 ## Add a Creator Channel
 

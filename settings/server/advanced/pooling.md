@@ -12,7 +12,7 @@ icon: crown
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> `Advanced Settings` -> `Temporary Channel Pooling`
 
 {% hint style="info" icon="crown" %}
-Pooling is only available with [Your Own Instance](../../help/premium.md#your-own-instance), and your own bot has to be on the server. The public TempVoice bot always deletes empty channels.
+Pooling is only available with [Your Own Instance](../../../help/premium.md#your-own-instance), and your own bot has to be on the server. The public TempVoice bot always deletes empty channels.
 {% endhint %}
 
 ## Why use pooling?
@@ -20,7 +20,7 @@ Pooling is only available with [Your Own Instance](../../help/premium.md#your-ow
 Normally, TempVoice creates a new channel when someone joins a Creator Channel and deletes it when it's empty. With pooling, empty channels are kept and reused:
 
 * New temporary channels are ready right away.
-* Reusing a channel doesn't count toward Discord's limit of [2,000 channel creations per day](../../faq/limits.md#discord-api).
+* Reusing a channel doesn't count toward Discord's limit of [2,000 channel creations per day](../../../faq/limits.md#discord-api).
 
 ## How it works
 
@@ -34,7 +34,7 @@ Instead of deleting the channel, TempVoice moves it into the first selected cate
 {% step %}
 ### Someone joins a Creator Channel
 
-TempVoice looks for an empty channel that came from the same Creator Channel. If it finds one, the user is moved in, and the channel is moved back to the [Temporary Channel Category](../overview/category.md) with the settings of its new owner.
+TempVoice looks for an empty channel that came from the same Creator Channel. If it finds one, the user is moved in, and the channel is moved back to the [Temporary Channel Category](../../creator/overview/category.md) with the settings of its new owner.
 {% endstep %}
 
 {% step %}
@@ -47,10 +47,10 @@ TempVoice creates a new temporary channel as usual.
 ## Good to know
 
 * You can select up to **10 categories**. A Discord category holds up to 50 channels, so 10 categories can pool up to 500 channels at most.
-* Pooled channels still count toward Discord's limit of [500 channels per server](../../faq/limits.md#discord-server).
+* Pooled channels still count toward Discord's limit of [500 channels per server](../../../faq/limits.md#discord-server).
 * Pooled channels are hidden from regular members, but members with the **Administrator** permission can still see them.
-* A channel whose [rename cooldown](../../faq/limits.md#discord-api) is still running is skipped, because it couldn't be renamed for its new owner.
-* A reused channel gets the name, user limit and permissions of its new owner, but it keeps its [region](../../commands/voice/region.md) and [bitrate](../../commands/voice/bitrate.md).
+* A channel whose [rename cooldown](../../../faq/limits.md#discord-api) is still running is skipped, because it couldn't be renamed for its new owner.
+* A reused channel gets the name, user limit and permissions of its new owner, but it keeps its [region](../../../commands/voice/region.md) and [bitrate](../../../commands/voice/bitrate.md).
 * A channel that only bots are left in is deleted, not pooled.
 
 {% hint style="warning" %}

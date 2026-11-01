@@ -8,7 +8,7 @@ description: Choose where to sync permissions from when creating a temporary cha
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Permissions` tab -> `Temporary Channel Permissions`
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Choose **Sync from Category**, **Sync from Creator** or **Don't Sync**.
 
@@ -18,5 +18,5 @@ The permissions `Connect`, `View Channel` and `Send Messages` can't be synced fo
 
 {% hint style="success" icon="shield" %}
 **How to give my team access to locked channel?**\
-Take a look at [How to sync permissions?](../../help/sync-permissions/)
+Take a look at [How to sync permissions?](../../../help/sync-permissions/)
 {% endhint %}

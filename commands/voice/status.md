@@ -12,7 +12,7 @@ description: >-
 
 * The status can be up to **500 characters** long.
 * Leave `input` blank to remove the status.
-* Words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored in the status too.
+* Words blocked by [Censor Channel Names](../../settings/creator/moderation/censor.md) are censored in the status too.
 * If your channel is hidden, the confirmation is only visible to you.
 
 {% hint style="info" %}
@@ -20,5 +20,5 @@ This command is available for 12 hours after voting on [Top.gg](https://top.gg/b
 {% endhint %}
 
 {% hint style="success" icon="gear-complex" %}
-Server admins can disable this command or limit it to certain roles with the **Changing Channel Status** feature in [Toggle Features](../../settings/moderation/features.md).
+Server admins can disable this command or limit it to certain roles with the **Changing Channel Status** feature in [Toggle Features](../../settings/creator/moderation/features.md).
 {% endhint %}

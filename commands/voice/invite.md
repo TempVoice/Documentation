@@ -12,4 +12,4 @@ description: >-
 
 * Your message is posted with a link to your channel in the chat where you use the command, so everyone there can see it.
 * Your message can be up to **250 characters** long.
-* Words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored.
+* Words blocked by [Censor Channel Names](../../settings/creator/moderation/censor.md) are censored.

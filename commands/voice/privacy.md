@@ -15,7 +15,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption><p>Hidden</p></figcaption></figure>
 
-This overwrites the default [Temporary Channel Privacy Mode](../../settings/permissions/privacy.md). The changed privacy mode will be saved and applied to the next temporary channel the user creates.
+This overwrites the default [Temporary Channel Privacy Mode](../../settings/creator/permissions/privacy.md). The changed privacy mode will be saved and applied to the next temporary channel the user creates.
 
 | Option               | Effect                                                                          |
 | -------------------- | ------------------------------------------------------------------------------- |
@@ -25,4 +25,4 @@ This overwrites the default [Temporary Channel Privacy Mode](../../settings/perm
 
 * You can't unlock your channel or make it invisible while it has a [waiting room](waiting.md).
 * If the server uses [{PRIVACY}](../../help/placeholders/privacy.md) in its naming format, changing the privacy renames your channel, so it has to wait for the [6-minute rename cooldown](../../faq/limits.md#discord-api).
-* Server admins can turn each option on or off separately in [Toggle Features](../../settings/moderation/features.md).
+* Server admins can turn each option on or off separately in [Toggle Features](../../settings/creator/moderation/features.md).

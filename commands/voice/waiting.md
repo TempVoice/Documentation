@@ -18,7 +18,7 @@ description: >-
 * When a user joins your waiting room, you get a request. **Accept** moves them into your channel. **Deny** disconnects them and stops them from joining the waiting room again.
 * Use the command again to get a button that deletes the waiting room. [/voice reset](reset.md) deletes it too.
 * If the server uses [{PRIVACY}](../../help/placeholders/privacy.md) in its naming format, locking your channel renames it, so it has to wait for the [6-minute rename cooldown](../../faq/limits.md#discord-api).
-* Server admins can set the name of waiting rooms with the [Waiting Room Name](../../settings/overview/name.md#waiting-rooms).
+* Server admins can set the name of waiting rooms with the [Waiting Room Name](../../settings/creator/overview/name.md#waiting-rooms).
 * A waiting room is a channel too, so it can't be created if the category is full or the server has reached [Discord's channel limit](../../faq/limits.md#discord-server).
 
 {% hint style="info" %}

@@ -15,5 +15,5 @@ This server has the ID: 904322845646135317
 ```
 
 {% hint style="info" %}
-Only available in the [Temporary Channel Greeting](../../settings/others/greeting.md).
+Only available in the [Temporary Channel Greeting](../../settings/creator/others/greeting.md).
 {% endhint %}

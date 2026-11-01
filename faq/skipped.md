@@ -36,7 +36,7 @@ Raised by: invite.
 
 The selected user holds a server permission that makes them immune to channel moderation: **Ban Members**, **Kick Members** or **Timeout Members**. Moderators can't be blocked, kicked or vote kicked from a temporary voice channel.
 
-If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../settings/permissions/owner.md), owners can still kick moderators instantly.
+If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../settings/creator/permissions/owner.md), owners can still kick moderators instantly.
 
 Raised by: block, kick, vote kick.
 
@@ -54,7 +54,7 @@ Raised by: invite, trust.
 
 ## Has no access role <a href="#role" id="role"></a>
 
-The server has restricted temporary voice channels to specific [access roles](../settings/permissions/access-roles.md), and the selected user has none of them. Giving them access would contradict that restriction, so they are skipped. If no access roles are configured, everyone passes this check.
+The server has restricted temporary voice channels to specific [access roles](../settings/creator/permissions/access-roles.md), and the selected user has none of them. Giving them access would contradict that restriction, so they are skipped. If no access roles are configured, everyone passes this check.
 
 Raised by: invite, trust.
 

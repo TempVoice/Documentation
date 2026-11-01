@@ -34,5 +34,5 @@ You can have multiple ➕ **Creator Channels**, each of which can be configured 
 A text channel in which the bot sends an [interface](../commands/interface-message.md). Its buttons are an alternative to the [/voice](../commands/voice/) commands for customizing a temporary channel.
 
 {% hint style="info" icon="gear-complex" %}
-You can have unlimited ✨ **Interface Messages**. Send one to the channel you are in with `/setup` -> `New Interface`, or [customize it and send it from the Dashboard](../settings/server/interface.md). You can also send it directly to the chat of every temporary channel with [TempVoice Interface for In-Voice Chat](../settings/others/interface.md).
+You can have unlimited ✨ **Interface Messages**. Send one to the channel you are in with `/setup` -> `New Interface`, or [customize it and send it from the Dashboard](../settings/server/interface.md). You can also send it directly to the chat of every temporary channel with [TempVoice Interface for In-Voice Chat](../settings/creator/others/interface.md).
 {% endhint %}

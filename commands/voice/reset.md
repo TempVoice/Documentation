@@ -11,7 +11,7 @@ description: >-
 TempVoice resets the following right away. The `RESET` button of the [interface](../interface-message.md) asks you to confirm first.
 
 * The channel name and user limit.
-* The privacy mode, back to the default [Temporary Channel Privacy Mode](../../settings/permissions/privacy.md). A locked chat is unlocked.
+* The privacy mode, back to the default [Temporary Channel Privacy Mode](../../settings/creator/permissions/privacy.md). A locked chat is unlocked.
 * Your trusted and blocked users.
 * The [password](password.md).
 * The [waiting room](waiting.md), which is deleted.

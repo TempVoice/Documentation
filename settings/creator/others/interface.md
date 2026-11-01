@@ -15,6 +15,6 @@ icon: crown
 This setting requires [TempVoice Premium](https://tempvoice.xyz/premium). Creator Channels created before December 1, 2025 keep it without Premium.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
