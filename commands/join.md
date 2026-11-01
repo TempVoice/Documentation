@@ -9,6 +9,8 @@ icon: terminal
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
+Select the temporary channel and enter the password that was set with [/voice password](voice/password.md). If it's correct, you can join the channel even while it's locked or hidden. [Blocked](voice/user/block.md) users can't use this command.
+
 {% hint style="info" %}
 A user needs **Use Application Command** permission to use this command.
 

@@ -14,4 +14,5 @@ description: >-
 
 This overwrites the default [Temporary Channel User Limit](../../settings/overview/limit.md). The changed user limit will be saved and applied to the next temporary channel the user creates.
 
-The user limit has to be within the [User Limit Range](../../settings/overview/limit.md#range) set by the server admins.
+* You can set a limit between **2** and **99** users. Leave `input` blank to remove the limit.
+* The user limit has to be within the [User Limit Range](../../settings/overview/limit.md#range) set by the server admins.

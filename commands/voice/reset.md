@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-After you confirm with the button, TempVoice resets:
+TempVoice resets the following right away. The `RESET` button of the [interface](../interface-message.md) asks you to confirm first.
 
 * The channel name and user limit.
 * The privacy mode, back to the default [Temporary Channel Privacy Mode](../../settings/permissions/privacy.md). A locked chat is unlocked.
@@ -19,5 +19,5 @@ After you confirm with the button, TempVoice resets:
 The reset also applies to the next temporary channels you create.
 
 {% hint style="warning" %}
-A reset renames your channel, so it shares the [5-minute rename limit](../../faq/limits.md#discord-api) with [/voice name](name.md).
+A reset can rename your channel, so it shares the [6-minute rename cooldown](../../faq/limits.md#discord-api) with [/voice name](name.md).
 {% endhint %}

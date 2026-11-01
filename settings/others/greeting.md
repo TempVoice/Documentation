@@ -14,6 +14,10 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
+The message can be up to **1,800 characters** long and can use [Placeholders](../../help/placeholders/). The public TempVoice bot adds a short disclaimer below it.
+
+To also send the interface, use [TempVoice Interface for In-Voice Chat](interface.md).
+
 <h2 align="center">Modes</h2>
 
 ***

@@ -33,6 +33,27 @@ This can help prevent your community from reaching the total limit for creating 
 
 ***
 
+## Common messages <a href="#common-messages" id="common-messages"></a>
+
+| Message                                                | What to do                                                                                                                                                                                                                 |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Premium Expired!**                                   | The Creator Channel is above the [free limit](../faq/limits.md#tempvoice) because Premium ended. Ask an admin to reactivate Premium or delete a Creator Channel.                                                            |
+| **This interface uses a custom design**                | This older interface needs Premium. Send a new interface with [/setup](../commands/setup.md) -> `New Interface`, or reactivate Premium.                                                                                     |
+| **This interface is outdated**                         | Ask an admin to send a new interface with [/setup](../commands/setup.md) -> `New Interface`.                                                                                                                                |
+| **Slow Down!**                                         | You reached a [cooldown](../faq/limits.md). The message tells you when you can try again.                                                                                                                                   |
+| **All available categories have reached their limit**  | Delete channels from the category, or set up [fallback categories](../settings/overview/category.md#fallbacks).                                                                                                             |
+| **The limit of 500 channels**                          | Your server reached [Discord's channel limit](../faq/limits.md#discord-server). Delete channels you don't need.                                                                                                              |
+
+***
+
+## The Dashboard can't load your server <a href="#dashboard" id="dashboard"></a>
+
+* **"You don't have permission to manage this server"**: You need the **Manage Server** permission. If you were given access recently, log out and log back in.
+* **"We couldn't load this server yet"**: Use the bot once on your server, for example by joining a Creator Channel or running a command. Then try again.
+* **"We couldn't find this server"**: The bot was most likely removed from it. [Invite the bot](https://tempvoice.xyz/invite) again, or log out and log back in.
+
+***
+
 ## Check for missing permissions <a href="#check-permissions" id="check-permissions"></a>
 
 Reinvite TempVoice to quickly refresh all permissions:

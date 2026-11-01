@@ -8,7 +8,15 @@ icon: terminal
 
 # /voice
 
-You have to be connected to a temporary channel to use `/voice`. Most subcommands can only be used by the owner of that channel. The exceptions are [/voice info](info.md), [/voice claim](claim.md) and starting a [vote kick](user/kick.md#vote).
+You have to be connected to a temporary channel to use `/voice`. Most subcommands can only be used by the owner of that channel, with these exceptions:
+
+* Anyone in the channel can use [/voice info](info.md) and [/voice claim](claim.md).
+* [Trusted users](user/trust.md) can also start a [vote kick](user/kick.md#vote).
+* Moderators can also use [/voice delete](delete.md) and [/voice transfer](transfer.md).
+
+`/voice` doesn't work in channels from a Creator Channel with [Ownerless Mode](../../settings/moderation/features.md#ownerless-mode).
+
+## Commands <a href="#commands" id="commands"></a>
 
 | Command                                     | What it does                                              | Requires vote |
 | ------------------------------------------- | --------------------------------------------------------- | :-----------: |
@@ -19,11 +27,11 @@ You have to be connected to a temporary channel to use `/voice`. Most subcommand
 | [/voice waiting](waiting.md)                | Create a waiting room for join requests                   |       ✓       |
 | [/voice password](password.md)              | Let users join a locked channel with [/join](../join.md)  |       ✓       |
 | [/voice thread](thread.md)                  | Create a temporary text thread                            |       ✓       |
-| [/voice invite](lfp.md)                     | Post an invite to your channel in a public chat           |       ✓       |
+| [/voice invite](lfp.md)                     | Post an invite to your channel in a public chat           |               |
 | [/voice region](region.md)                  | Change the voice region                                   |       ✓       |
 | [/voice bitrate](bitrate.md)                | Change the audio quality                                  |       ✓       |
 | [/voice info](info.md)                      | Show an overview of your channel                          |       ✓       |
-| [/voice claim](claim.md)                    | Take over a channel whose owner left                      |       ✓       |
+| [/voice claim](claim.md)                    | Take over a channel                                       |       ✓       |
 | [/voice transfer](transfer.md)              | Give ownership to another user                            |       ✓       |
 | [/voice delete](delete.md)                  | Delete your channel, even with users inside               |       ✓       |
 | [/voice reset](reset.md)                    | Reset all your channel settings to default                |               |

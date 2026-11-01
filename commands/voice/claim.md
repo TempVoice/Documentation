@@ -9,7 +9,11 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-You can only claim a channel while its owner is not connected to it. If the owner is still inside, ask them to [transfer](transfer.md) the channel to you instead.
+You can only claim a channel while its owner is not connected to it. If the owner is still inside, ask them to [transfer](transfer.md) the channel to you instead. Moderators with the **Ban Members**, **Kick Members** or **Timeout Members** permission can claim a channel even while its owner is connected.
+
+{% hint style="warning" %}
+A claim can rename the channel, so it has to wait for the [6-minute rename cooldown](../../faq/limits.md#discord-api).
+{% endhint %}
 
 {% hint style="info" %}
 This command is available for 12 hours after voting on [Top.gg](https://top.gg/bot/762217899355013120/vote). After that, you’ll need to vote again. With [TempVoice Premium](https://tempvoice.xyz/premium), you don’t need to vote at all.

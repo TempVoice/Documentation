@@ -12,10 +12,10 @@ description: Change the name of your temporary channel. Select a name to be reco
 
 This overwrites the default [Temporary Channel Name](../../settings/overview/name.md). The changed name will be saved and applied to the next temporary channel the user creates.
 
-* The name can be up to **64 characters** long.
+* The name can be up to **64 characters** long. Leave `input` blank to go back to the default name.
 * Words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored.
 * If the server uses [{CUSTOM}](../../help/placeholders/custom.md) in its naming format, your name only replaces that part of the channel name.
 
 {% hint style="warning" %}
-Discord only allows renaming a channel [every 5 minutes](../../faq/limits.md#discord-api).
+A channel can only be renamed [every 6 minutes](../../faq/limits.md#discord-api).
 {% endhint %}

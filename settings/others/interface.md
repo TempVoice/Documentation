@@ -9,7 +9,11 @@ icon: crown
 
 > **Where do I find this?**
 >
-> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Others` tab -> `Temporary Channel Greeting`
+> Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Others` tab -> `TempVoice Interface for In-Voice Chat`
+
+{% hint style="info" icon="crown" %}
+This setting requires [TempVoice Premium](https://tempvoice.xyz/premium). Creator Channels created before December 1, 2025 keep it without Premium.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 

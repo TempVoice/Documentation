@@ -18,7 +18,7 @@ Here, we’ll explain everything you need to know to get started with TempVoice�
 
 ### What's a Temporary Channel? <a href="#whats-a-temporary-channel" id="whats-a-temporary-channel"></a>
 
-It’s a voice channel — but with a catch: it only exists as long as someone is using it.
+It’s a voice channel — but with a catch: it only exists as long as someone is using it. Once everyone has left, it’s deleted automatically.
 
 <figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,5 +32,5 @@ As the owner, you can customize and moderate the channel using the [/voice](comm
 
 * New here? Follow the [Quickstart](getting-started/setup.md).
 * Want to manage your channel? Use the [/voice](commands/voice/) commands, the [Interface](commands/interface-message.md) or the [Apps commands](commands/apps.md).
-* Setting up your server? Every Creator Channel can be configured in the [Dashboard](https://tempvoice.xyz/dashboard).
+* Setting up your server? Configure your [server](settings/server/) and every Creator Channel in the [Dashboard](https://tempvoice.xyz/dashboard).
 * Something isn't working? Check [TempVoice not working](troubleshooting/tempvoice-not-working.md).

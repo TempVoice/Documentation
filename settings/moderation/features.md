@@ -40,10 +40,12 @@ When a user tries a feature they can't use, TempVoice tells them whether it was 
 
 **Disconnect** and **Send Invite** are [Apps commands](../../commands/apps.md) and follow the same feature as their `/voice` counterpart.
 
+Turning off **Locking Channel** or **Hiding Channel** clears the trusted and blocked users that owners have saved for this Creator Channel.
+
 Disabling a feature also stops saved owner settings from being reused. For example, disabling **Changing Channel Name** means new temporary channels use the default [Temporary Channel Name](../overview/name.md) again, instead of the name the owner set before.
 
 {% hint style="info" %}
-Unlike the other features, **Starting Vote Kicks** isn't limited to the owner: every member of the temporary channel who is allowed to use it can start a vote.
+Unlike the other features, **Starting Vote Kicks** isn't limited to the owner: [trusted users](../../commands/voice/user/trust.md) who are allowed to use it can start a vote too. Voting itself only requires being the owner or a trusted user.
 {% endhint %}
 
 ***
@@ -52,4 +54,4 @@ Unlike the other features, **Starting Vote Kicks** isn't limited to the owner: e
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="73"><figcaption></figcaption></figure>
 
-<p align="center">Switch <strong>Owner Managed</strong> off when you want to use temporary channels as public game channels. The user who created the temporary channel <strong>will not</strong> be able to customize or moderate it, and the feature list above is locked.</p>
+<p align="center">Switch <strong>Owner Managed</strong> off when you want to use temporary channels as public game channels. The user who created the temporary channel <strong>will not</strong> be able to customize or moderate it, <code>/voice</code> commands stop working in these channels, and the feature list above is locked.</p>

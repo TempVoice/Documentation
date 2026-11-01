@@ -1,6 +1,6 @@
 ---
 description: >-
-  TempVoice has already been translated into dozens of languages to bring people
+  TempVoice has already been translated into many languages to bring people
   together.
 icon: globe
 ---

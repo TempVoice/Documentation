@@ -36,7 +36,7 @@ Raised by: invite.
 
 The selected user holds a server permission that makes them immune to channel moderation: **Ban Members**, **Kick Members** or **Timeout Members**. Moderators can't be blocked, kicked or vote kicked from a temporary voice channel.
 
-If the server grants channel owners **Move Members** with [Temporary Channel Owner Permission](../settings/permissions/owner.md), owners can still kick moderators instantly.
+If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../settings/permissions/owner.md), owners can still kick moderators instantly.
 
 Raised by: block, kick, vote kick.
 

@@ -10,7 +10,9 @@ description: Set the default user limit for temporary channels when they are cre
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-This default channel user limit can be changed by the temporary channel owner with [/voice limit](../../commands/voice/limit.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous user limit will be used.
+Choose a value between **0** and **99**, where 0 means no limit. This default channel user limit can be changed by the temporary channel owner with [/voice limit](../../commands/voice/limit.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous user limit will be used.
+
+Changing the default user limit clears the user limits that owners have saved for this Creator Channel.
 
 ### Don’t want users to change the user limit?
 
@@ -26,4 +28,4 @@ Disable it under [Recover Owner Settings](../moderation/restore.md).
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-The owner of a temporary channel will only be able to set a user limit that is within the range that you have selected.
+The owner of a temporary channel will only be able to set a user limit that is within the range that you have selected. The maximum has to be higher than the minimum. Changing the range clears saved user limits that are outside of it.

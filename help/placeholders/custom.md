@@ -29,7 +29,7 @@ If the owners set their names to `Pls join me`, `I am bored` or `We play mc`:
 
 ## Customize the placeholder
 
-If the owner hasn't set a name, `{OWNER_NICKNAME}'s Channel` is used.
+If the owner hasn't set a name, `{OWNER_NICKNAME}'s Channel` is used. Changing this default clears the names that owners have saved for this Creator Channel.
 
 This can be changed by clicking on the `{ }` button to open the placeholder overview. Afterwards click on the settings gear next to the placeholder to change its defaults.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Disconnect users from your temporary channel and revoke their access, or start
-  a vote and let the members of your channel decide.
+  a vote and let the owner and trusted users of your channel decide.
 ---
 
 # kick
@@ -30,7 +30,7 @@ Kicked users can join again if your channel is public and they aren't [blocked](
 
 ## Vote Kick <a href="#vote" id="vote"></a>
 
-Members of the temporary channel can start a vote to kick one user, so the owner doesn't have to be around.
+The owner and [trusted users](trust.md) of the temporary channel can start a vote to kick one user, so the owner doesn't have to be around.
 
 {% stepper %}
 {% step %}
@@ -40,27 +40,29 @@ Select the user. TempVoice posts a vote message in the in-voice chat of the chan
 {% endstep %}
 
 {% step %}
-### Members vote
+### Cast your vote
 
-Everyone connected to the channel can vote **yes** or **no** with the buttons and can change their vote while it runs. The user being voted on can't vote.
+The owner and trusted users who are connected to the channel can vote **yes** or **no** with the buttons and can change their vote while it runs. The user being voted on can't vote.
 {% endstep %}
 
 {% step %}
 ### The vote ends
 
-The user is kicked as soon as enough members voted **yes**. The vote fails once too many members voted **no** for it to pass, and it ends after **2 minutes** if not enough members voted in time.
+The user is kicked as soon as enough voters voted **yes**, which also takes them off the trusted list. The vote fails once too many voters voted **no** for it to pass, and it ends after **2 minutes** if not enough voters voted in time.
 {% endstep %}
 {% endstepper %}
 
-The number of votes needed is the [Vote Kick Percentage](../../../settings/moderation/vote-kick-percentage.md) of the members connected to the channel, rounded up. The user being voted on and bots are not counted.
+The number of votes needed is the [Vote Kick Percentage](../../../settings/moderation/vote-kick-percentage.md) of the voters, rounded up. Only the owner and trusted users who are connected to the channel are counted. The user being voted on and bots are not counted.
 
-> **Example:** 6 users are in the channel and one of them is voted on. That leaves 5 voters. With a percentage of 50%, **3** yes votes are needed.
+> **Example:** The owner and 5 trusted users are in the channel and a trusted user is voted on. That leaves 5 voters. With a percentage of 50%, **3** yes votes are needed.
 
-Only one vote kick can run in a channel at a time. The owner of the channel and moderators can't be vote kicked, and a vote fails if the user being voted on becomes the owner, for example with [/voice claim](../claim.md).
+Only one vote kick can run in a channel at a time. The owner of the channel and moderators can't be vote kicked, and a vote is canceled if the user being voted on becomes the owner, for example with [/voice claim](../claim.md).
+
+If your vote kick fails or runs out of time, you have to wait **2 minutes** before you can start a new one in a temporary channel of the same Creator Channel.
 
 ## Who can't be kicked? <a href="#immune" id="immune"></a>
 
-Members with the **Ban Members**, **Kick Members** or **Timeout Members** permission are moderators and can't be kicked. If the server grants channel owners **Move Members** with [Temporary Channel Owner Permission](../../../settings/permissions/owner.md), the owner can instantly kick moderators too. Moderators are always protected from vote kicks.
+Members with the **Ban Members**, **Kick Members** or **Timeout Members** permission are moderators and can't be kicked. If the server grants channel owners **Disconnect Members** with [Temporary Channel Owner Permissions](../../../settings/permissions/owner.md), the owner can instantly kick moderators too. Moderators are always protected from vote kicks.
 
 See [Why some users get ignored/skipped?](../../../faq/skipped.md) for every reason a user can be skipped.
 

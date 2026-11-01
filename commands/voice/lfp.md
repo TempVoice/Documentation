@@ -10,8 +10,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Your message can be up to **250 characters** long.
-
-{% hint style="info" %}
-This command is available for 12 hours after voting on [Top.gg](https://top.gg/bot/762217899355013120/vote). After that, you’ll need to vote again. With [TempVoice Premium](https://tempvoice.xyz/premium), you don’t need to vote at all.
-{% endhint %}
+* Your message is posted with a link to your channel in the chat where you use the command, so everyone there can see it.
+* Your message can be up to **250 characters** long.
+* Words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored.

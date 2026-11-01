@@ -10,7 +10,7 @@ description: Set the default naming format for temporary channels when they are 
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-This default channel name can be changed by the temporary channel owner with [/voice name](../../commands/voice/name.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous name will be used.
+The name can be up to **64 characters** long. This default channel name can be changed by the temporary channel owner with [/voice name](../../commands/voice/name.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous name will be used.
 
 ### Don’t want users to rename channels?
 
@@ -33,7 +33,7 @@ Try out [Placeholders](../../help/placeholders/) to have dynamic temporary chann
     <figure><img src="../../.gitbook/assets/image (78).png" alt="" width="67"><figcaption></figcaption></figure>
 
 
-2.  Set the naming format used for Waiting Room channels.<br>
+2.  Set the naming format used for Waiting Room channels. It can be up to **64 characters** long, and the default is `Ask {OWNER_NICKNAME} to join`.<br>
 
     <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 

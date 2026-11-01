@@ -14,6 +14,10 @@ description: >-
 
 This default channel privacy can be changed by the temporary channel owner with [/voice privacy](../../commands/voice/privacy.md) or an [Interface Message](../../commands/interface-message.md). As soon as the user creates a new temporary channel, the previous privacy mode will be used.
 
+{% hint style="warning" %}
+Changing this setting also updates the privacy mode that every user has saved for this Creator Channel.
+{% endhint %}
+
 ### Don’t want users to change the privacy mode?
 
 Disable it under [Toggle Features](../moderation/features.md).

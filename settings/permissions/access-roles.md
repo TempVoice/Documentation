@@ -12,6 +12,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
+You can select up to **10 roles**. A role used as the [Temporary Voice Role](../others/voice-role.md) can't be an access role.
+
 <h2 align="center">Modes</h2>
 
 ***

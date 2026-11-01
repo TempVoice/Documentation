@@ -11,6 +11,10 @@ icon: crown
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" icon="crown" %}
+This setting requires [TempVoice Premium](https://tempvoice.xyz/premium). Creator Channels created before December 1, 2025 keep it without Premium.
+{% endhint %}
+
 This can be useful if you want to give access to specific text channels while being in a temporary channel.
 
 <h2 align="center">Modes</h2>

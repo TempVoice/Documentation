@@ -34,7 +34,7 @@ Placeholders work in three settings: the [Temporary Channel Name](../../settings
 | [{NUMBER}](number.md) and its variants                                            |       ✓      |         ✓         |     ✓    |
 | [{ROLE\_HIGHEST}](role_highest.md), [{ROLE\_HOIST}](role_hoist.md)                |       ✓      |         ✓         |     ✓    |
 | [{GUILD\_ID}](guild_id.md), [{CHANNEL\_ID}](channel_id.md)                        |              |                   |     ✓    |
-| [{ACTIVITY\_...}](activity_name.md) (Your Own Branding™ only)                     |       ✓      |                   |          |
+| [{ACTIVITY\_...}](activity_name.md) (Your Own Instance only)                     |       ✓      |                   |          |
 
 {% hint style="info" %}
 Channel names are cut off after 100 characters, and words blocked by [Censor Channel Names](../../settings/moderation/censor.md) are censored after the placeholders are replaced.

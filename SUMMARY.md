@@ -33,10 +33,16 @@
   * [waiting](commands/voice/waiting.md)
 * [/find](commands/find.md)
 * [/join](commands/join.md)
+* [/setup](commands/setup.md)
+* [/help](commands/help.md)
 * [Apps Commands](commands/apps.md)
 
 ## DASHBOARD SETTINGS <a href="#settings" id="settings"></a>
 
+* [Server Settings](settings/server/README.md)
+  * [TempVoice Appearance](settings/server/appearance.md)
+  * [Creator Channels](settings/server/creators.md)
+  * [Customize the Interface](settings/server/interface.md)
 * [Overview](settings/overview/README.md)
   * [Temporary Channel Name](settings/overview/name.md)
   * [Temporary Channel User Limit](settings/overview/limit.md)
@@ -47,7 +53,7 @@
   * [Temporary Channel Access Roles](settings/permissions/access-roles.md)
   * [Temporary Channel Permissions](settings/permissions/sync.md)
   * [Temporary Channel Privacy Mode](settings/permissions/privacy.md)
-  * [Temporary Channel Owner Permission](settings/permissions/owner.md)
+  * [Temporary Channel Owner Permissions](settings/permissions/owner.md)
 * [Moderation](settings/moderation/README.md)
   * [Toggle Features](settings/moderation/features.md)
   * [Moderation Log](settings/moderation/log.md)
@@ -59,6 +65,8 @@
   * [Temporary Channel Greeting](settings/others/greeting.md)
   * [TempVoice Interface for In-Voice Chat](settings/others/interface.md)
   * [Temporary Voice Role](settings/others/voice-role.md)
+* [Advanced](settings/advanced/README.md)
+  * [Temporary Channel Pooling](settings/advanced/pooling.md)
 
 ## explanations <a href="#help" id="help"></a>
 

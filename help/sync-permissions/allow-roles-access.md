@@ -7,7 +7,7 @@ icon: unlock
 
 ## Enable permission syncing
 
-1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Permissions Tab -> Temporary Channel Permission
+1. [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Permissions Tab -> Temporary Channel Permissions
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 

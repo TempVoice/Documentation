@@ -7,6 +7,12 @@ icon: trash-can
 
 # Empty temporary channels
 
+Channels that only have bots left in them are deleted as well, as long as there are no more than 3 bots.
+
+{% hint style="info" %}
+Using [Temporary Channel Pooling](../settings/advanced/pooling.md)? Empty channels in your selected categories are hidden on purpose, so they can be reused. If all selected categories are full, empty channels stay visible until they are reused.
+{% endhint %}
+
 ## Still found empty temporary channels? <a href="#still-found-and-empty-temporary-channel" id="still-found-and-empty-temporary-channel"></a>
 
 1. Try to join and leave the channel

@@ -26,5 +26,5 @@ TempVoice looks at the activities of everyone in the temporary channel, except b
 The same works for details and state: `{ACTIVITY_DETAILS_MAJORITY}` and `{ACTIVITY_STATE_MAJORITY}`.
 
 {% hint style="info" icon="crown" %}
-Activity placeholders are only available with [Your Own Branding™](../premium.md#your-own-branding). They show the activity of the channel owner, and fall back to `❔` when the owner has none. You can change the fallback in the placeholder settings.
+Activity placeholders are only available with [Your Own Instance](../premium.md#your-own-instance). They show the activity of the channel owner, and fall back to `❔` when the owner has none. You can change the fallback in the placeholder settings.
 {% endhint %}

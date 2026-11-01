@@ -17,10 +17,12 @@ description: >-
 
 This overwrites the default [Temporary Channel Privacy Mode](../../settings/permissions/privacy.md). The changed privacy mode will be saved and applied to the next temporary channel the user creates.
 
-| Option             | Effect                                                                         |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Lock / Unlock      | Locked channels stay visible, but only [trusted](user/trust.md) users can join. |
-| Hide / Unhide      | Hidden channels are invisible to everyone except trusted users.                |
-| Lock / Unlock Chat | Stops other users from writing in the in-voice chat of your channel.           |
+| Option               | Effect                                                                          |
+| -------------------- | ------------------------------------------------------------------------------- |
+| Lock / Unlock        | Locked channels stay visible, but only [trusted](user/trust.md) users can join. |
+| Invisible / Visible  | Invisible channels can only be seen by trusted users.                           |
+| Close Chat / Open Chat | Only trusted users can write in the in-voice chat of your channel.            |
 
-Server admins can turn each option on or off separately in [Toggle Features](../../settings/moderation/features.md).
+* You can't unlock your channel or make it invisible while it has a [waiting room](waiting.md).
+* If the server uses [{PRIVACY}](../../help/placeholders/privacy.md) in its naming format, changing the privacy renames your channel, so it has to wait for the [6-minute rename cooldown](../../faq/limits.md#discord-api).
+* Server admins can turn each option on or off separately in [Toggle Features](../../settings/moderation/features.md).

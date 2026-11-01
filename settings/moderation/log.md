@@ -11,6 +11,10 @@ icon: crown
 >
 > Open the [Dashboard](https://tempvoice.xyz/dashboard) -> Select your Discord server -> Select the **correct** Creator Channel -> Click on the `Moderation` tab -> `Moderation Log`&#x20;
 
+{% hint style="info" icon="crown" %}
+The Moderation Log requires [TempVoice Premium](https://tempvoice.xyz/premium).
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 The log includes:

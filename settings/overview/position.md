@@ -12,6 +12,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+Choose **At the top**, **Right below Creator** or **At the bottom**.
+
 {% hint style="info" %}
 Discord doesn't always keep channel positions exactly as requested, so the position can be slightly off when many channels are created or deleted at once.
 {% endhint %}

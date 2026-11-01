@@ -1,0 +1,8 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  premium/customize-interface: settings/server/interface.md
