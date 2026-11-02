@@ -18,9 +18,9 @@ icon: lock
 2. All permissions you set in the category for roles will be applied and synced to temporary channels. Deny `View Channels` or `Connect` permission to prevent that role from joining temporary channels.
 
 {% hint style="warning" %}
-**Permissions for @everyone**
+**Permissions for @everyone or Temporary Channel Access Roles**
 
-You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@everyone`, because these permissions are managed when using [/voice privacy](../../commands/voice/privacy.md)!
+You cannot sync `Connect`, `View Channel` and `Send Message` permissions for `@everyone`, or for your [access roles](../../settings/creator/permissions/access-roles.md) if you selected any, because these permissions are managed when using [/voice privacy](../../commands/voice/privacy.md)!
 
 If your Discord server has a verification system and you want to prevent @everyone from using temporary channels, read [How to integrate my verification system?](../everyone-access.md)
 {% endhint %}
